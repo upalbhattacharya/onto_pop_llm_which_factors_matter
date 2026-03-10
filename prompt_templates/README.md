@@ -35,7 +35,8 @@ field of the `JSON` files in the [run_args/onto_pop](../run_args/onto_pop/)
 directory which are grouped by prompting approach (0_shot, 1_shot, ...),
 followed by LLM name and finally ontology. They may contain slight
 variations. Four variants corresponding to different domain contextualizations
-are can be found within the ontology sub-directories.
+can be found within the ontology sub-directories. A directory structure of the
+`run_args/onto_pop` directory is given below:
 
 
 ```
