@@ -33,9 +33,9 @@ The **EXACT** prompts used for each combination of prompting approach, LLM,
 ontology and domain contextualization can be found in the `system_message`
 field of the `JSON` files in the [run_args/onto_pop](../run_args/onto_pop/)
 directory which are grouped by prompting approach (0_shot, 1_shot, ...),
-followed by LLM name and finally ontology. Four variants corresponding to
-different domain contextualizations are can be found within the ontology
-sub-directories.
+followed by LLM name and finally ontology. They may contain slight
+variations. Four variants corresponding to different domain contextualizations
+are can be found within the ontology sub-directories.
 
 
 ```
