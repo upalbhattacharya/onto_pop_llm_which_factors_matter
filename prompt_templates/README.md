@@ -17,6 +17,15 @@ each ontology:
 | CASE      | "cyber crime investigator" |
 | Astronomy | "astronomy expert"         |
 
+`ontology-depth` in the templates are populated with the respective depth of
+the ontology.
+
+`classes` in the templates are populated with a flat-list of comma-separated
+labels of the concepts of the ontology.
+
+`examples` in the [n_shot](n_shot.md) prompt are populated with the selected
+examples for n-shot prompts.
+
 The **EXACT** prompts used for each combination of prompting approach, LLM,
 ontology and domain contextualization can be found in the `system_message`
 field of the `JSON` files in the [run_args/onto_pop](../run_args/onto_pop/)
