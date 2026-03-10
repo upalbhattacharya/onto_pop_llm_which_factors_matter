@@ -2,7 +2,12 @@
 
 The generic template for 0 shot and n shot prompts can be found in
 [0_shot.md](0_shot.md) and [n_shot.md](n_shot.md) respectively. Fields in
-braces `{}` represent values to be filled with variables in backticks
+braces `{}` represent values to be filled. Several values that can be used to
+populate a field are separate by forward slashes `/` (e.g. 4 types of domain
+contextualization).
+
+`ontology-description` in the templates represent the description provided for
+the domain contextualization variant for each ontology.
 
 The **EXACT** prompts used for each combination of prompting approach, LLM,
 ontology and domain contextualization can be found in the `system_message`
