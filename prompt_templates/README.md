@@ -15,7 +15,7 @@ each ontology:
 |-----------|----------------------------|
 | Wines     | "wine expert"              |
 | CASE      | "cyber crime investigator" |
-| Astronomy | "                           |
+| Astronomy | "astronomy expert"         |
 
 The **EXACT** prompts used for each combination of prompting approach, LLM,
 ontology and domain contextualization can be found in the `system_message`
