@@ -4,10 +4,10 @@ The generic template for 0 shot and n shot prompts can be found in
 [0_shot.md](0_shot.md) and [n_shot.md](n_shot.md) respectively. Fields in
 braces `{}` represent values to be filled. Several values that can be used to
 populate a field are separate by forward slashes `/` (e.g. 4 types of domain
-contextualization).
+contextualization). The variables in the prompts are described below.
 
-`ontology-description` in the templates represent the description provided for
-the domain contextualization variant for each ontology. The table below
+- `ontology-description` in the templates represent the description provided
+for the domain contextualization variant for each ontology. The table below
 provides the exact text used for the domain context `ontology-description` for
 each ontology:
 
@@ -17,14 +17,17 @@ each ontology:
 | CASE      | "cyber crime investigator" |
 | Astronomy | "astronomy expert"         |
 
-`ontology-depth` in the templates are populated with the respective depth of
+- `ontology-depth` in the templates are populated with the respective depth of
 the ontology.
 
-`classes` in the templates are populated with a flat-list of comma-separated
+- `classes` in the templates are populated with a flat-list of comma-separated
 labels of the concepts of the ontology.
 
-`examples` in the [n_shot](n_shot.md) prompt are populated with the selected
+- `examples` in the [n_shot](n_shot.md) prompt are populated with the selected
 examples for n-shot prompts.
+
+- Finally, `input` in the templates are the labels of the instances for
+  ontology population.
 
 The **EXACT** prompts used for each combination of prompting approach, LLM,
 ontology and domain contextualization can be found in the `system_message`
