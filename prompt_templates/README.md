@@ -7,7 +7,15 @@ populate a field are separate by forward slashes `/` (e.g. 4 types of domain
 contextualization).
 
 `ontology-description` in the templates represent the description provided for
-the domain contextualization variant for each ontology.
+the domain contextualization variant for each ontology. The table below
+provides the exact text used for the domain context `ontology-description` for
+each ontology:
+
+| Ontology  | `ontology-description`     |
+|-----------|----------------------------|
+| Wines     | "wine expert"              |
+| CASE      | "cyber crime investigator" |
+| Astronomy | "                           |
 
 The **EXACT** prompts used for each combination of prompting approach, LLM,
 ontology and domain contextualization can be found in the `system_message`
