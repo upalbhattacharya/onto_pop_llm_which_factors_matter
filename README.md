@@ -14,6 +14,8 @@ An outline of the repository is given below:
   on various LLMs and calculating metrics can be found in the 
   [src/eswc\_2026\_submission\_13](src/onto_pop_llm_which_factors_matter/)
   directory and the [notebooks](notebooks/) directory.
+  - An overview of the prompts used in experimentation can be found in the
+    [prompt_templates](prompt_templates/) directory.
 - The various settings for experiments with different factors can be found
   in the [run\_args](run_args/) directory.
 - The generated results can be found in the [results](results/)
