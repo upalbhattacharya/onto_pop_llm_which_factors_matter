@@ -1,0 +1,18 @@
+[project]
+name = "onto_pop_llm_which_factors_matter"
+version = "1.0.0"
+description = "Ontology Population Using LLMs: Which Factors Matter?"
+authors = [
+  {name="Upal Bhattacharya", email="upal.bhattacharya@gmail.com"},
+]
+readme = "README.md"
+dynamic = ["dependencies", "optional-dependencies"]
+requires-python = ">=3.12"
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+optional-dependencies.dev = { file = ["requirements-dev.txt"] }
+
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"

@@ -1,0 +1,154 @@
+{"Individual":"AlsaceRegion","Response":"1. Region\n2. WineDescriptor\n3. WineFlavor\n4. WineGrape","Prediction":["Region","WineDescriptor","WineFlavor","WineGrape"]}
+{"Individual":"AnjouRegion","Response":"1. Region\n2. Anjou\n3. WineDescriptor\n4. Bordeaux","Prediction":["Region","Anjou","WineDescriptor","Bordeaux"]}
+{"Individual":"ArroyoGrandeRegion","Response":"1. Region\n2. WineGrape\n3. Winery\n4. WineDescriptor","Prediction":["Region","WineGrape","Winery","WineDescriptor"]}
+{"Individual":"AustralianRegion","Response":"1. Region\n2. WineDescriptor\n3. Winery\n4. CotesDOr","Prediction":["Region","WineDescriptor","Winery","CotesDOr"]}
+{"Individual":"Bancroft","Response":"1. Winery\n2. Region\n3. WineDescriptor\n4. WineGrape","Prediction":["Winery","Region","WineDescriptor","WineGrape"]}
+{"Individual":"BancroftChardonnay","Response":"1. Chardonnay  \n2. Winery  \n3. Wine  \n4. WhiteWine  ","Prediction":["Chardonnay","Winery","Wine","WhiteWine"]}
+{"Individual":"BeaujolaisRegion","Response":"1. Region\n2. Beaujolais\n3. Wine\n4. WineDescriptor","Prediction":["Region","Beaujolais","Wine","WineDescriptor"]}
+{"Individual":"Beringer","Response":"1. Winery\n2. Wine\n3. RedWine\n4. WhiteWine","Prediction":["Winery","Wine","RedWine","WhiteWine"]}
+{"Individual":"BordeauxRegion","Response":"1. Region\n2. Bordeaux\n3. Wine\n4. WineGrape","Prediction":["Region","Bordeaux","Wine","WineGrape"]}
+{"Individual":"BourgogneRegion","Response":"1. Region\n2. CotesDOr\n3. WhiteBurgundy\n4. WineDescriptor","Prediction":["Region","CotesDOr","WhiteBurgundy","WineDescriptor"]}
+{"Individual":"CabernetFrancGrape","Response":"1. WineGrape\n2. Grape\n3. CabernetFranc\n4. Wine","Prediction":["WineGrape","Grape","CabernetFranc","Wine"]}
+{"Individual":"CabernetSauvignonGrape","Response":"1. WineGrape\n2. Grape\n3. CabernetSauvignon\n4. Wine","Prediction":["WineGrape","Grape","CabernetSauvignon","Wine"]}
+{"Individual":"CaliforniaRegion","Response":"1. Region\n2. Winery\n3. Wine\n4. PotableLiquid","Prediction":["Region","Winery","Wine","PotableLiquid"]}
+{"Individual":"CentralCoastRegion","Response":"1. Region\n2. WineDescriptor\n3. WineFlavor\n4. WineTaste","Prediction":["Region","WineDescriptor","WineFlavor","WineTaste"]}
+{"Individual":"CentralTexasRegion","Response":"1. Region\n2. WineDescriptor\n3. WineTaste\n4. WineFlavor","Prediction":["Region","WineDescriptor","WineTaste","WineFlavor"]}
+{"Individual":"ChardonnayGrape","Response":"1. WineGrape\n2. Chardonnay\n3. Grape\n4. Wine","Prediction":["WineGrape","Chardonnay","Grape","Wine"]}
+{"Individual":"ChateauChevalBlanc","Response":"1. Winery\n2. StEmilion\n3. Bordeaux\n4. RedWine","Prediction":["Winery","StEmilion","Bordeaux","RedWine"]}
+{"Individual":"ChateauChevalBlancStEmilion","Response":"1. StEmilion\n2. Winery\n3. Bordeaux\n4. Wine","Prediction":["StEmilion","Winery","Bordeaux","Wine"]}
+{"Individual":"ChateauDYchem","Response":"1. Winery\n2. Sauternes\n3. Bordeaux\n4. Wine","Prediction":["Winery","Sauternes","Bordeaux","Wine"]}
+{"Individual":"ChateauDYchemSauterne","Response":"1. Sauternes\n2. DessertWine\n3. Bordeaux\n4. Winery","Prediction":["Sauternes","DessertWine","Bordeaux","Winery"]}
+{"Individual":"ChateauDeMeursault","Response":"1. Meursault\n2. Winery\n3. Region\n4. Wine","Prediction":["Meursault","Winery","Region","Wine"]}
+{"Individual":"ChateauDeMeursaultMeursault","Response":"1. Meursault\n2. Winery\n3. CotesDOr\n4. Wine","Prediction":["Meursault","Winery","CotesDOr","Wine"]}
+{"Individual":"ChateauLafiteRothschild","Response":"1. Winery\n2. Pauillac\n3. Bordeaux\n4. Wine","Prediction":["Winery","Pauillac","Bordeaux","Wine"]}
+{"Individual":"ChateauLafiteRothschildPauillac","Response":"1. Pauillac\n2. Winery\n3. Bordeaux\n4. RedWine","Prediction":["Pauillac","Winery","Bordeaux","RedWine"]}
+{"Individual":"ChateauMargaux","Response":"1. Margaux\n2. Winery\n3. Bordeaux\n4. Wine","Prediction":["Margaux","Winery","Bordeaux","Wine"]}
+{"Individual":"ChateauMargauxWinery","Response":"1. Winery\n2. Margaux\n3. Bordeaux\n4. Wine","Prediction":["Winery","Margaux","Bordeaux","Wine"]}
+{"Individual":"ChateauMorgon","Response":"1. Winery\n2. Beaujolais\n3. Region\n4. Bordeaux","Prediction":["Winery","Beaujolais","Region","Bordeaux"]}
+{"Individual":"ChateauMorgonBeaujolais","Response":"1. Beaujolais\n2. Winery\n3. RedWine\n4. Region","Prediction":["Beaujolais","Winery","RedWine","Region"]}
+{"Individual":"CheninBlancGrape","Response":"1. WineGrape\n2. CheninBlanc\n3. Grape\n4. Wine","Prediction":["WineGrape","CheninBlanc","Grape","Wine"]}
+{"Individual":"ChiantiClassico","Response":"1. Chianti\n2. ItalianWine\n3. RedWine\n4. Wine","Prediction":["Chianti","ItalianWine","RedWine","Wine"]}
+{"Individual":"ChiantiRegion","Response":"1. Region\n2. Chianti\n3. ItalianWine\n4. Wine","Prediction":["Region","Chianti","ItalianWine","Wine"]}
+{"Individual":"ClosDeLaPoussie","Response":"1. Winery\n2. Sancerre\n3. Region\n4. Wine","Prediction":["Winery","Sancerre","Region","Wine"]}
+{"Individual":"ClosDeLaPoussieSancerre","Response":"1. Sancerre\n2. Winery\n3. Wine\n4. Region","Prediction":["Sancerre","Winery","Wine","Region"]}
+{"Individual":"ClosDeVougeot","Response":"1. CotesDOr\n2. Region\n3. Winery\n4. RedWine","Prediction":["CotesDOr","Region","Winery","RedWine"]}
+{"Individual":"ClosDeVougeotCotesDOr","Response":"1. CotesDOr\n2. Region\n3. Winery\n4. WineDescriptor","Prediction":["CotesDOr","Region","Winery","WineDescriptor"]}
+{"Individual":"CongressSprings","Response":"1. Winery\n2. Wine\n3. Region\n4. PotableLiquid","Prediction":["Winery","Wine","Region","PotableLiquid"]}
+{"Individual":"CongressSpringsSemillon","Response":"1. Semillon\n2. Winery\n3. Wine \n4. WineGrape","Prediction":["Semillon","Winery","Wine","WineGrape"]}
+{"Individual":"Corbans","Response":"1. Winery\n2. Wine\n3. WineGrape\n4. WineDescriptor","Prediction":["Winery","Wine","WineGrape","WineDescriptor"]}
+{"Individual":"CorbansDryWhiteRiesling","Response":"1. DryRiesling\n2. Riesling\n3. WhiteWine\n4. Wine","Prediction":["DryRiesling","Riesling","WhiteWine","Wine"]}
+{"Individual":"CorbansPrivateBinSauvignonBlanc","Response":"1. SauvignonBlanc\n2. Winery\n3. WhiteWine\n4. Wine","Prediction":["SauvignonBlanc","Winery","WhiteWine","Wine"]}
+{"Individual":"CorbansSauvignonBlanc","Response":"1. SauvignonBlanc\n2. Winery\n3. WineGrape\n4. WhiteWine","Prediction":["SauvignonBlanc","Winery","WineGrape","WhiteWine"]}
+{"Individual":"CortonMontrachet","Response":"1. WhiteBurgundy\n2. Chardonnay\n3. Wine\n4. Region","Prediction":["WhiteBurgundy","Chardonnay","Wine","Region"]}
+{"Individual":"CortonMontrachetWhiteBurgundy","Response":"1. WhiteBurgundy\n2. Chardonnay\n3. WhiteWine\n4. Wine","Prediction":["WhiteBurgundy","Chardonnay","WhiteWine","Wine"]}
+{"Individual":"CotesDOrRegion","Response":"1. Region\n2. CotesDOr\n3. Wine\n4. Bordeaux","Prediction":["Region","CotesDOr","Wine","Bordeaux"]}
+{"Individual":"Cotturi","Response":"1. Winery\n2. Wine\n3. RedWine\n4. WineDescriptor","Prediction":["Winery","Wine","RedWine","WineDescriptor"]}
+{"Individual":"CotturiZinfandel","Response":"1. Zinfandel\n2. Winery\n3. WineGrape\n4. Wine","Prediction":["Zinfandel","Winery","WineGrape","Wine"]}
+{"Individual":"DAnjou","Response":"1. Anjou\n2. Region\n3. Wine\n4. WhiteWine","Prediction":["Anjou","Region","Wine","WhiteWine"]}
+{"Individual":"Delicate","Response":"1. WineFlavor\n2. WineTaste\n3. WineDescriptor\n4. WineBody","Prediction":["WineFlavor","WineTaste","WineDescriptor","WineBody"]}
+{"Individual":"Dry","Response":"1. WineDescriptor\n2. WineSugar\n3. WineFlavor\n4. WineTaste","Prediction":["WineDescriptor","WineSugar","WineFlavor","WineTaste"]}
+{"Individual":"EdnaValleyRegion","Response":"1. Region\n2. Wine\n3. WhiteWine\n4. RedWine","Prediction":["Region","Wine","WhiteWine","RedWine"]}
+{"Individual":"Elyse","Response":"1. Winery  \n2. Wine  \n3. WineDescriptor  \n4. Region","Prediction":["Winery","Wine","WineDescriptor","Region"]}
+{"Individual":"ElyseZinfandel","Response":"1. Zinfandel\n2. Wine\n3. RedWine\n4. WineGrape","Prediction":["Zinfandel","Wine","RedWine","WineGrape"]}
+{"Individual":"Forman","Response":"1. Winery\n2. Wine\n3. CabernetFranc\n4. WineFlavor","Prediction":["Winery","Wine","CabernetFranc","WineFlavor"]}
+{"Individual":"FormanCabernetSauvignon","Response":"1. CabernetSauvignon  \n2. Winery  \n3. Meritage  \n4. WineGrape  ","Prediction":["CabernetSauvignon","Winery","Meritage","WineGrape"]}
+{"Individual":"FormanChardonnay","Response":"1. Chardonnay\n2. Winery\n3. Wine\n4. WhiteWine","Prediction":["Chardonnay","Winery","Wine","WhiteWine"]}
+{"Individual":"FoxenCheninBlanc","Response":"1. CheninBlanc  \n2. Winery  \n3. WineGrape  \n4. WhiteWine  ","Prediction":["CheninBlanc","Winery","WineGrape","WhiteWine"]}
+{"Individual":"FrenchRegion","Response":"1. Region\n2. Bordeaux\n3. CotesDOr\n4. Anjou","Prediction":["Region","Bordeaux","CotesDOr","Anjou"]}
+{"Individual":"Full","Response":"1. WineBody\n2. WineDescriptor\n3. WineFlavor\n4. WineTaste","Prediction":["WineBody","WineDescriptor","WineFlavor","WineTaste"]}
+{"Individual":"GamayGrape","Response":"1. WineGrape\n2. Grape\n3. Wine\n4. WineDescriptor","Prediction":["WineGrape","Grape","Wine","WineDescriptor"]}
+{"Individual":"GaryFarrell","Response":"1. Winery\n2. Region\n3. WineDescriptor\n4. WineTaste","Prediction":["Winery","Region","WineDescriptor","WineTaste"]}
+{"Individual":"GaryFarrellMerlot","Response":"1. Merlot\n2. Winery\n3. RedWine\n4. WineDescriptor","Prediction":["Merlot","Winery","RedWine","WineDescriptor"]}
+{"Individual":"Handley","Response":"1. Winery\n2. Meritage\n3. Wine\n4. WineDescriptor","Prediction":["Winery","Meritage","Wine","WineDescriptor"]}
+{"Individual":"ItalianRegion","Response":"1. Region  \n2. ItalianWine  \n3. Wine  \n4. WineDescriptor  ","Prediction":["Region","ItalianWine","Wine","WineDescriptor"]}
+{"Individual":"KalinCellars","Response":"1. Winery\n2. Wine\n3. WhiteWine\n4. RedWine","Prediction":["Winery","Wine","WhiteWine","RedWine"]}
+{"Individual":"KalinCellarsSemillon","Response":"1. Semillon\n2. Winery\n3. Chardonnay\n4. WineGrape","Prediction":["Semillon","Winery","Chardonnay","WineGrape"]}
+{"Individual":"KathrynKennedy","Response":"1. Winery\n2. Wine\n3. Meritage\n4. Bordeaux","Prediction":["Winery","Wine","Meritage","Bordeaux"]}
+{"Individual":"KathrynKennedyLateral","Response":"1. Winery\n2. Meritage\n3. Wine\n4. WineDescriptor","Prediction":["Winery","Meritage","Wine","WineDescriptor"]}
+{"Individual":"LaneTanner","Response":"1. Winery\n2. RedTableWine\n3. WineColor\n4. WineDescriptor","Prediction":["Winery","RedTableWine","WineColor","WineDescriptor"]}
+{"Individual":"LaneTannerPinotNoir","Response":"1. PinotNoir  \n2. Winery  \n3. Wine  \n4. WineGrape  ","Prediction":["PinotNoir","Winery","Wine","WineGrape"]}
+{"Individual":"LoireRegion","Response":"1. Region\n2. WineRegion\n3. FrenchRegion\n4. Anjou","Prediction":["Region","WineRegion","FrenchRegion","Anjou"]}
+{"Individual":"Longridge","Response":"1. Winery\n2. Region\n3. Wine\n4. WineGrape","Prediction":["Winery","Region","Wine","WineGrape"]}
+{"Individual":"LongridgeMerlot","Response":"1. Merlot\n2. Winery\n3. WineGrape\n4. Wine","Prediction":["Merlot","Winery","WineGrape","Wine"]}
+{"Individual":"MalbecGrape","Response":"1. WineGrape\n2. Grape\n3. Wine\n4. RedWine","Prediction":["WineGrape","Grape","Wine","RedWine"]}
+{"Individual":"MargauxRegion","Response":"1. Region\n2. Margaux\n3. Bordeaux\n4. WineDescriptor","Prediction":["Region","Margaux","Bordeaux","WineDescriptor"]}
+{"Individual":"Marietta","Response":"1. Winery\n2. Region\n3. Wine\n4. PotableLiquid","Prediction":["Winery","Region","Wine","PotableLiquid"]}
+{"Individual":"MariettaCabernetSauvignon","Response":"1. CabernetSauvignon\n2. Winery\n3. WineGrape\n4. Wine","Prediction":["CabernetSauvignon","Winery","WineGrape","Wine"]}
+{"Individual":"MariettaOldVinesRed","Response":"1. RedWine\n2. RedTableWine\n3. Wine\n4. WineDescriptor","Prediction":["RedWine","RedTableWine","Wine","WineDescriptor"]}
+{"Individual":"MariettaPetiteSyrah","Response":"1. PetiteSyrah\n2. Winery\n3. Wine\n4. RedWine","Prediction":["PetiteSyrah","Winery","Wine","RedWine"]}
+{"Individual":"MariettaZinfandel","Response":"1. Zinfandel\n2. WineGrape\n3. Wine\n4. RedWine","Prediction":["Zinfandel","WineGrape","Wine","RedWine"]}
+{"Individual":"McGuinnesso","Response":"1. Winery\n2. WineDescriptor\n3. Region\n4. WineTaste","Prediction":["Winery","WineDescriptor","Region","WineTaste"]}
+{"Individual":"Medium","Response":"1. WineBody\n2. WineTaste\n3. WineFlavor\n4. WineDescriptor","Prediction":["WineBody","WineTaste","WineFlavor","WineDescriptor"]}
+{"Individual":"MedocRegion","Response":"1. Region  \n2. Bordeaux  \n3. RedWine  \n4. Wine","Prediction":["Region","Bordeaux","RedWine","Wine"]}
+{"Individual":"MendocinoRegion","Response":"1. Region\n2. StEmilion\n3. Anjou\n4. Pauillac","Prediction":["Region","StEmilion","Anjou","Pauillac"]}
+{"Individual":"MeursaultRegion","Response":"1. Region\n2. Meursault\n3. Wine\n4. WhiteBurgundy","Prediction":["Region","Meursault","Wine","WhiteBurgundy"]}
+{"Individual":"Moderate","Response":"1. WineBody\n2. WineTaste\n3. WineDescriptor\n4. WineFlavor","Prediction":["WineBody","WineTaste","WineDescriptor","WineFlavor"]}
+{"Individual":"MountEdenVineyard","Response":"1. Winery\n2. Wine\n3. Region\n4. Bordeaux","Prediction":["Winery","Wine","Region","Bordeaux"]}
+{"Individual":"MountEdenVineyardEdnaValleyChardonnay","Response":"1. Chardonnay\n2. Winery\n3. Wine\n4. WhiteWine","Prediction":["Chardonnay","Winery","Wine","WhiteWine"]}
+{"Individual":"MountEdenVineyardEstatePinotNoir","Response":"1. PinotNoir\n2. Winery\n3. RedWine\n4. WineGrape","Prediction":["PinotNoir","Winery","RedWine","WineGrape"]}
+{"Individual":"Mountadam","Response":"1. Winery\n2. Wine\n3. Region\n4. RedWine","Prediction":["Winery","Wine","Region","RedWine"]}
+{"Individual":"MountadamChardonnay","Response":"1. Chardonnay\n2. Winery\n3. WhiteWine\n4. Wine","Prediction":["Chardonnay","Winery","WhiteWine","Wine"]}
+{"Individual":"MountadamPinotNoir","Response":"1. PinotNoir\n2. Winery\n3. RedWine\n4. WineGrape","Prediction":["PinotNoir","Winery","RedWine","WineGrape"]}
+{"Individual":"MountadamRiesling","Response":"1. Riesling\n2. Winery\n3. WineGrape\n4. WhiteWine","Prediction":["Riesling","Winery","WineGrape","WhiteWine"]}
+{"Individual":"MuscadetRegion","Response":"1. Region\n2. Muscadet\n3. WineGrape\n4. WineDescriptor","Prediction":["Region","Muscadet","WineGrape","WineDescriptor"]}
+{"Individual":"NapaRegion","Response":"1. Region\n2. Wine\n3. RedWine\n4. WhiteWine","Prediction":["Region","Wine","RedWine","WhiteWine"]}
+{"Individual":"NewZealandRegion","Response":"1. Region\n2. Wine\n3. PotableLiquid\n4. WhiteWine","Prediction":["Region","Wine","PotableLiquid","WhiteWine"]}
+{"Individual":"OffDry","Response":"1. WineSugar  \n2. WineDescriptor  \n3. WhiteWine  \n4. WineTaste  ","Prediction":["WineSugar","WineDescriptor","WhiteWine","WineTaste"]}
+{"Individual":"PageMillWinery","Response":"1. Winery\n2. Region\n3. Wine\n4. PotableLiquid","Prediction":["Winery","Region","Wine","PotableLiquid"]}
+{"Individual":"PageMillWineryCabernetSauvignon","Response":"1. CabernetSauvignon\n2. Winery\n3. Wine\n4. RedWine","Prediction":["CabernetSauvignon","Winery","Wine","RedWine"]}
+{"Individual":"PauillacRegion","Response":"1. Region\n2. Pauillac\n3. Bordeaux\n4. WineDescriptor","Prediction":["Region","Pauillac","Bordeaux","WineDescriptor"]}
+{"Individual":"PeterMccoy","Response":"1. Winery   \n2. Wine   \n3. VintageYear   \n4. WineGrape   ","Prediction":["Winery","Wine","VintageYear","WineGrape"]}
+{"Individual":"PetiteSyrahGrape","Response":"1. PetiteSyrah\n2. WineGrape\n3. Grape\n4. RedWine","Prediction":["PetiteSyrah","WineGrape","Grape","RedWine"]}
+{"Individual":"PetiteVerdotGrape","Response":"1. WineGrape\n2. Grape\n3. RedWine\n4. Wine","Prediction":["WineGrape","Grape","RedWine","Wine"]}
+{"Individual":"PinotBlancGrape","Response":"1. WineGrape\n2. Grape\n3. PinotNoir\n4. Chardonnay","Prediction":["WineGrape","Grape","PinotNoir","Chardonnay"]}
+{"Individual":"PinotNoirGrape","Response":"1. WineGrape\n2. Grape\n3. PinotNoir\n4. Wine","Prediction":["WineGrape","Grape","PinotNoir","Wine"]}
+{"Individual":"PortugalRegion","Response":"1. Region\n2. Wine\n3. Bordeaux\n4. ItalianWine","Prediction":["Region","Wine","Bordeaux","ItalianWine"]}
+{"Individual":"PulignyMontrachet","Response":"1. WhiteBurgundy  \n2. Region  \n3. Wine  \n4. Chardonnay  ","Prediction":["WhiteBurgundy","Region","Wine","Chardonnay"]}
+{"Individual":"PulignyMontrachetWhiteBurgundy","Response":"1. WhiteBurgundy\n2. Chardonnay\n3. Region\n4. WineColor","Prediction":["WhiteBurgundy","Chardonnay","Region","WineColor"]}
+{"Individual":"Red","Response":"1. WineColor\n2. RedWine\n3. RedTableWine\n4. WineDescriptor","Prediction":["WineColor","RedWine","RedTableWine","WineDescriptor"]}
+{"Individual":"RieslingGrape","Response":"1. WineGrape\n2. Grape\n3. Riesling\n4. Wine","Prediction":["WineGrape","Grape","Riesling","Wine"]}
+{"Individual":"Rose","Response":"1. WineColor\n2. RedWine\n3. Wine\n4. PotableLiquid","Prediction":["WineColor","RedWine","Wine","PotableLiquid"]}
+{"Individual":"RoseDAnjou","Response":"1. Anjou\n2. Wine\n3. WineColor\n4. WineDescriptor","Prediction":["Anjou","Wine","WineColor","WineDescriptor"]}
+{"Individual":"SancerreRegion","Response":"1. Region  \n2. Sancerre  \n3. Wine  \n4. WhiteWine  ","Prediction":["Region","Sancerre","Wine","WhiteWine"]}
+{"Individual":"SantaBarbaraRegion","Response":"1. Region\n2. Winery\n3. WineDescriptor\n4. WineTaste","Prediction":["Region","Winery","WineDescriptor","WineTaste"]}
+{"Individual":"SantaCruzMountainVineyard","Response":"1. Winery\n2. Region\n3. Wine\n4. Bordeaux","Prediction":["Winery","Region","Wine","Bordeaux"]}
+{"Individual":"SantaCruzMountainVineyardCabernetSauvignon","Response":"1. CabernetSauvignon\n2. Winery\n3. Wine\n4. RedWine","Prediction":["CabernetSauvignon","Winery","Wine","RedWine"]}
+{"Individual":"SantaCruzMountainsRegion","Response":"1. Region\n2. WineDescriptor\n3. WineFlavor\n4. Winery","Prediction":["Region","WineDescriptor","WineFlavor","Winery"]}
+{"Individual":"SaucelitoCanyon","Response":"1. Winery\n2. Region\n3. Wine\n4. WineDescriptor","Prediction":["Winery","Region","Wine","WineDescriptor"]}
+{"Individual":"SaucelitoCanyonZinfandel","Response":"1. Zinfandel\n2. Winery\n3. Wine\n4. RedWine","Prediction":["Zinfandel","Winery","Wine","RedWine"]}
+{"Individual":"SaucelitoCanyonZinfandel1998","Response":"1. Zinfandel\n2. VintageYear\n3. Winery\n4. RedWine","Prediction":["Zinfandel","VintageYear","Winery","RedWine"]}
+{"Individual":"SauterneRegion","Response":"1. Region\n2. Sauternes\n3. Wine\n4. Bordeaux","Prediction":["Region","Sauternes","Wine","Bordeaux"]}
+{"Individual":"SauvignonBlancGrape","Response":"1. WineGrape\n2. Grape\n3. SauvignonBlanc\n4. Wine","Prediction":["WineGrape","Grape","SauvignonBlanc","Wine"]}
+{"Individual":"SchlossRothermel","Response":"1. Winery\n2. Region\n3. Wine\n4. WineDescriptor","Prediction":["Winery","Region","Wine","WineDescriptor"]}
+{"Individual":"SchlossRothermelTrochenbierenausleseRiesling","Response":"1. Riesling\n2. WineDescriptor\n3. SweetRiesling\n4. WhiteWine","Prediction":["Riesling","WineDescriptor","SweetRiesling","WhiteWine"]}
+{"Individual":"SchlossVolrad","Response":"1. Winery\n2. Region\n3. Wine\n4. Riesling","Prediction":["Winery","Region","Wine","Riesling"]}
+{"Individual":"SchlossVolradTrochenbierenausleseRiesling","Response":"1. Riesling\n2. SweetRiesling\n3. WineGrape\n4. Wine","Prediction":["Riesling","SweetRiesling","WineGrape","Wine"]}
+{"Individual":"SeanThackrey","Response":"1. Winery\n2. Wine\n3. Bordeaux\n4. RedWine","Prediction":["Winery","Wine","Bordeaux","RedWine"]}
+{"Individual":"SeanThackreySiriusPetiteSyrah","Response":"1. PetiteSyrah\n2. Winery\n3. RedWine\n4. WineGrape","Prediction":["PetiteSyrah","Winery","RedWine","WineGrape"]}
+{"Individual":"Selaks","Response":"1. Winery\n2. Wine\n3. PotableLiquid\n4. WineDescriptor","Prediction":["Winery","Wine","PotableLiquid","WineDescriptor"]}
+{"Individual":"SelaksIceWine","Response":"1. IceWine\n2. Winery\n3. DessertWine\n4. LateHarvest","Prediction":["IceWine","Winery","DessertWine","LateHarvest"]}
+{"Individual":"SelaksSauvignonBlanc","Response":"1. SauvignonBlanc  \n2. Winery  \n3. WhiteWine  \n4. WineGrape  ","Prediction":["SauvignonBlanc","Winery","WhiteWine","WineGrape"]}
+{"Individual":"SemillonGrape","Response":"1. WineGrape\n2. Grape\n3. Semillon\n4. WineDescriptor","Prediction":["WineGrape","Grape","Semillon","WineDescriptor"]}
+{"Individual":"SevreEtMaine","Response":"1. Muscadet\n2. Region\n3. Wine\n4. WhiteWine","Prediction":["Muscadet","Region","Wine","WhiteWine"]}
+{"Individual":"SevreEtMaineMuscadet","Response":"1. Muscadet\n2. Region\n3. Wine\n4. WhiteWine","Prediction":["Muscadet","Region","Wine","WhiteWine"]}
+{"Individual":"SonomaRegion","Response":"1. Region\n2. WineDescriptor\n3. Winery\n4. WineTaste","Prediction":["Region","WineDescriptor","Winery","WineTaste"]}
+{"Individual":"SouthAustraliaRegion","Response":"1. Region\n2. Wine\n3. PotableLiquid\n4. Winery","Prediction":["Region","Wine","PotableLiquid","Winery"]}
+{"Individual":"StEmilionRegion","Response":"1. Region\n2. StEmilion\n3. Bordeaux\n4. WineDescriptor","Prediction":["Region","StEmilion","Bordeaux","WineDescriptor"]}
+{"Individual":"StGenevieve","Response":"1. Winery\n2. Wine\n3. Bordeaux\n4. StEmilion","Prediction":["Winery","Wine","Bordeaux","StEmilion"]}
+{"Individual":"StGenevieveTexasWhite","Response":"1. WhiteWine\n2. Wine\n3. Winery\n4. Region","Prediction":["WhiteWine","Wine","Winery","Region"]}
+{"Individual":"Stonleigh","Response":"1. Winery\n2. Wine\n3. Bordeaux\n4. PotableLiquid","Prediction":["Winery","Wine","Bordeaux","PotableLiquid"]}
+{"Individual":"StonleighSauvignonBlanc","Response":"1. SauvignonBlanc\n2. Winery\n3. WhiteWine\n4. WineGrape","Prediction":["SauvignonBlanc","Winery","WhiteWine","WineGrape"]}
+{"Individual":"Sweet","Response":"1. WineSugar\n2. WineDescriptor\n3. WineFlavor\n4. WineTaste","Prediction":["WineSugar","WineDescriptor","WineFlavor","WineTaste"]}
+{"Individual":"Taylor","Response":"1. Winery  \n2. Wine  \n3. WineGrape  \n4. WineDescriptor  ","Prediction":["Winery","Wine","WineGrape","WineDescriptor"]}
+{"Individual":"TaylorPort","Response":"1. Port\n2. DessertWine\n3. Wine\n4. PotableLiquid","Prediction":["Port","DessertWine","Wine","PotableLiquid"]}
+{"Individual":"TexasRegion","Response":"1. Region\n2. WineDescriptor\n3. Wine\n4. Winery","Prediction":["Region","WineDescriptor","Wine","Winery"]}
+{"Individual":"ToursRegion","Response":"1. Region\n2. Anjou\n3. CotesDOr\n4. Bordeaux","Prediction":["Region","Anjou","CotesDOr","Bordeaux"]}
+{"Individual":"USRegion","Response":"1. Region  \n2. AmericanWine  \n3. WineRegion  \n4. WineOrigin  ","Prediction":["Region","AmericanWine","WineRegion","WineOrigin"]}
+{"Individual":"Ventana","Response":"1. Winery\n2. Wine\n3. Region\n4. PotableLiquid","Prediction":["Winery","Wine","Region","PotableLiquid"]}
+{"Individual":"VentanaCheninBlanc","Response":"1. CheninBlanc\n2. Winery\n3. WhiteWine\n4. WineGrape","Prediction":["CheninBlanc","Winery","WhiteWine","WineGrape"]}
+{"Individual":"White","Response":"1. WhiteWine  \n2. WineColor  \n3. Wine  \n4. PotableLiquid  ","Prediction":["WhiteWine","WineColor","Wine","PotableLiquid"]}
+{"Individual":"WhitehallLane","Response":"1. Winery  \n2. Wine  \n3. Region  \n4. WineDescriptor  ","Prediction":["Winery","Wine","Region","WineDescriptor"]}
+{"Individual":"WhitehallLaneCabernetFranc","Response":"1. CabernetFranc  \n2. Winery  \n3. WineGrape  \n4. RedWine  ","Prediction":["CabernetFranc","Winery","WineGrape","RedWine"]}
+{"Individual":"WhitehallLanePrimavera","Response":"1. Winery\n2. Wine\n3. WineDescriptor\n4. WineFlavor","Prediction":["Winery","Wine","WineDescriptor","WineFlavor"]}
+{"Individual":"Year1998","Response":"1. VintageYear\n2. Wine\n3. PotableLiquid\n4. DessertWine","Prediction":["VintageYear","Wine","PotableLiquid","DessertWine"]}
+{"Individual":"ZinfandelGrape","Response":"1. WineGrape\n2. Grape\n3. Zinfandel\n4. RedWine","Prediction":["WineGrape","Grape","Zinfandel","RedWine"]}

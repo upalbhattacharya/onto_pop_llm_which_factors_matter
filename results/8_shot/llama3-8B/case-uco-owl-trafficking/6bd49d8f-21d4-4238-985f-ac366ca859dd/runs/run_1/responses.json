@@ -1,0 +1,123 @@
+{"Custom ID":"task-0","Response":"<|begin_of_text|>\n\n1. DigitalAccount\n2. Account\n3. ObservableObject\n4. Item\n5. Observable\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-1","Response":"<|begin_of_text|>\n\n1. Account\n2. DigitalAccount\n3. AccountFacet\n4. DigitalAccountFacet\n5. ObservableObject\n6. UcoObject\n7. Item<|eot_id|>"}
+{"Custom ID":"task-2","Response":"<|begin_of_text|>\n\n1. AccountAuthenticationFacet\n2. Facet\n3. AccountFacet\n4. DigitalAccountFacet\n5. UcoInherentCharacterizationThing\n6. UcoThing\n7. ObservableObject\n8. Item<|eot_id|>"}
+{"Custom ID":"task-3","Response":"<|begin_of_text|>\n\n1. AccountAuthenticationFacet\n2. Facet\n3. AccountFacet\n4. DigitalAccountFacet\n5. UcoInherentCharacterizationThing\n6. UcoThing\n7. Account\n8. DigitalAccount<|eot_id|>"}
+{"Custom ID":"task-4","Response":"<|begin_of_text|>\n\n1. AccountFacet\n2. Facet\n3. DigitalAccountFacet\n4. AccountAuthenticationFacet\n5. EmailAccountFacet\n6. PhoneAccountFacet\n7. ApplicationAccountFacet\n8. MobileAccountFacet<|eot_id|>"}
+{"Custom ID":"task-5","Response":"<|begin_of_text|>\n\n1. AccountFacet\n2. Facet\n3. DigitalAccountFacet\n4. UcoInherentCharacterizationThing\n5. UcoThing\n6. Account\n7. DigitalAccount\n8. ObservableObject<|eot_id|>"}
+{"Custom ID":"task-6","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. AccountFacet\n2. Facet\n3. DigitalAccountFacet\n4. Account\n5. UcoObject\n6. Observable\n7. Item\n8. UcoThing<|eot_id|>"}
+{"Custom ID":"task-7","Response":"<|begin_of_text|>\n\n1. AccountFacet\n2. Facet\n3. DigitalAccountFacet\n4. UcoInherentCharacterizationThing\n5. UcoThing\n6. Account\n7. DigitalAccount\n8. ObservableObject<|eot_id|>"}
+{"Custom ID":"task-8","Response":"<|begin_of_text|>\n\n1. AccountFacet\n2. Facet\n3. DigitalAccountFacet\n4. UcoInherentCharacterizationThing\n5. UcoThing<|eot_id|>"}
+{"Custom ID":"task-9","Response":"<|begin_of_text|>\n\n1. AccountFacet\n2. Facet\n3. DigitalAccountFacet\n4. Account\n5. UcoInherentCharacterizationThing\n6. UcoThing\n7. ObservableObject<|eot_id|>"}
+{"Custom ID":"task-10","Response":"<|begin_of_text|>\n\n1. DigitalAccount\n2. Account\n3. AccountFacet\n4. PhoneAccount\n5. MobileAccount\n6. EmailAccount\n7. ApplicationAccountFacet<|eot_id|>"}
+{"Custom ID":"task-11","Response":"<|begin_of_text|>\n\n1. Account\n2. AccountFacet\n3. DigitalAccount\n4. PhoneAccount\n5. ApplicationAccountFacet\n6. EmailAccount\n7. MobileAccount<|eot_id|>"}
+{"Custom ID":"task-12","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. Account\n2. DigitalAccount\n3. AccountFacet\n4. ObservableObject\n5. UcoObject\n6. UcoThing\n7. Item<|eot_id|>"}
+{"Custom ID":"task-13","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. Account\n2. DigitalAccount\n3. AccountFacet\n4. ObservableObject\n5. UcoObject\n6. Item\n7. Observable\n8. UcoThing<|eot_id|>"}
+{"Custom ID":"task-14","Response":"<|begin_of_text|>\n\n1. AndroidDeviceFacet\n2. Facet\n3. DeviceFacet\n4. MobileDeviceFacet\n5. Device\n6. ObservableObject\n7. UcoObject<|eot_id|>"}
+{"Custom ID":"task-15","Response":"<|begin_of_text|>\n\n1. ApplicationFacet\n2. Facet\n3. AccountFacet\n4. DigitalAccountFacet\n5. UcoInherentCharacterizationThing\n6. UcoThing\n7. ObservableObject\n8. Item<|eot_id|>"}
+{"Custom ID":"task-16","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. Application\n2. ApplicationFacet\n3. Software\n4. ObservableObject\n5. Item\n6. Observable\n7. UcoObject\n8. UcoThing<|eot_id|>"}
+{"Custom ID":"task-17","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. ApplicationFacet\n2. Facet\n3. Application\n4. Software\n5. ObservableObject\n6. Item\n7. UcoObject\n8. UcoThing<|eot_id|>"}
+{"Custom ID":"task-18","Response":"<|begin_of_text|>\n\n1. AccountFacet\n2. PhoneAccountFacet\n3. Account\n4. DigitalAccountFacet\n5. Facet\n6. UcoInherentCharacterizationThing\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-19","Response":"<|begin_of_text|>\n\n1. Account\n2. AccountFacet\n3. DigitalAccount\n4. ObservableObject\n5. UcoObject\n6. Item\n7. Observable<|eot_id|>"}
+{"Custom ID":"task-20","Response":"<|begin_of_text|>\n\n1. BluetoothAddressFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing\n5. DeviceFacet\n6. DigitalAddressFacet\n7. Address\n8. UcoObject<|eot_id|>"}
+{"Custom ID":"task-21","Response":"<|begin_of_text|>\n\n1. BootLoaderFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-22","Response":"<|begin_of_text|>\n\n1. Bundle\n2. ObservableObject\n3. Item\n4. Observable\n5. UcoObject\n6. UcoThing<|eot_id|>"}
+{"Custom ID":"task-23","Response":"<|begin_of_text|>\n\n1. Image\n2. File\n3. FileSystemObject\n4. ObservableObject\n5. Item\n6. Observable\n7. UcoObject\n8. UcoThing<|eot_id|>"}
+{"Custom ID":"task-24","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. PathRelationFacet\n2. ObservableRelationship\n3. Relationship\n4. UcoObject\n5. UcoThing<|eot_id|>"}
+{"Custom ID":"task-25","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. Configuration\n2. ConfigurationEntry\n3. ObservableObject\n4. Item\n5. Observable\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-26","Response":"<|begin_of_text|>\n\n1. ConfigurationEntry\n2. Configuration\n3. Item\n4. ObservableObject\n5. UcoObject\n6. UcoThing\n7. Observable\n8. FileFacet<|eot_id|>"}
+{"Custom ID":"task-27","Response":"<|begin_of_text|>\n\n1. ConfigurationEntry\n2. Configuration\n3. ObservableObject\n4. Item\n5. Observable\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-28","Response":"<|begin_of_text|>\n\n1. ContentDataFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-29","Response":"<|begin_of_text|>\n\n1. ContentDataFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-30","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. ContentDataFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-31","Response":"<|begin_of_text|>\n\n1. ContentDataFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-32","Response":"<|begin_of_text|>\n\n1. DataRangeFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-33","Response":"<|begin_of_text|>\n\n1. DataRangeFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-34","Response":"<|begin_of_text|>\n\n1. DataRangeFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-35","Response":"<|begin_of_text|>\n\n1. DataRangeFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-36","Response":"<|begin_of_text|>\n\n1. DataRangeFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-37","Response":"<|begin_of_text|>\n\n1. DataRangeFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-38","Response":"<|begin_of_text|>\n\n1. DeviceFacet\n2. Facet\n3. Device\n4. ObservableObject\n5. UcoObject\n6. UcoThing\n7. MobileDeviceFacet<|eot_id|>"}
+{"Custom ID":"task-39","Response":"<|begin_of_text|>\n\n1. DigitalAccountFacet\n2. Facet\n3. AccountFacet\n4. UcoInherentCharacterizationThing\n5. UcoThing\n6. Account\n7. DigitalAccount\n8. ObservableObject<|eot_id|>"}
+{"Custom ID":"task-40","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. FileSystemFacet\n2. Facet\n3. DiskPartition\n4. UcoInherentCharacterizationThing\n5. UcoThing\n6. ObservableObject\n7. Item\n8. Observable<|eot_id|>"}
+{"Custom ID":"task-41","Response":"<|begin_of_text|>\n\n1. FileSystem\n2. FileSystemFacet\n3. File\n4. Item\n5. ObservableObject\n6. Observable\n7. UcoObject<|eot_id|>"}
+{"Custom ID":"task-42","Response":"<|begin_of_text|>\n\n1. File\n2. FileSystemObject\n3. ObservableObject\n4. Item\n5. Observable\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-43","Response":"<|begin_of_text|>\n\n1. EmailAccount\n2. Account\n3. DigitalAccount\n4. AccountFacet\n5. EmailAccountFacet\n6. DigitalAccountFacet\n7. Identity\n8. IdentityFacet<|eot_id|>"}
+{"Custom ID":"task-44","Response":"<|begin_of_text|>\n\n1. EmailAccountFacet\n2. Facet\n3. AccountFacet\n4. DigitalAccountFacet\n5. Account\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-45","Response":"<|begin_of_text|>\n\n1. EmailAddress\n2. EmailAddressFacet\n3. Address\n4. IdentityFacet\n5. Identity\n6. AccountFacet\n7. Account\n8. DigitalAccountFacet<|eot_id|>"}
+{"Custom ID":"task-46","Response":"<|begin_of_text|>\n\n1. EmailAddressFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing\n5. AccountFacet\n6. EmailAccountFacet\n7. EmailAccount\n8. Account<|eot_id|>"}
+{"Custom ID":"task-47","Response":"<|begin_of_text|>\n\n1. ExtInodeFacet\n2. Facet\n3. FileFacet\n4. FileSystemFacet\n5. UcoInherentCharacterizationThing\n6. UcoThing\n7. DigitalAddressFacet\n8. UcoObject<|eot_id|>"}
+{"Custom ID":"task-48","Response":"<|begin_of_text|>\n\n1. ExtInodeFacet\n2. Facet\n3. FileFacet\n4. FileSystemFacet\n5. UcoObject\n6. UcoThing\n7. File<|eot_id|>"}
+{"Custom ID":"task-49","Response":"<|begin_of_text|>\n\n1. ExtInodeFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing\n5. FileFacet\n6. FileSystemFacet\n7. DiskPartitionFacet<|eot_id|>"}
+{"Custom ID":"task-50","Response":"<|begin_of_text|>\n\n1. PhoneAccount\n2. MobileAccount\n3. Account\n4. DigitalAccount\n5. EmailAccount\n6. AccountFacet\n7. EmailAddressFacet<|eot_id|>"}
+{"Custom ID":"task-51","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. FileFacet\n2. Facet\n3. FileSystemFacet\n4. File\n5. FileSystemObject\n6. UcoObject\n7. ObservableObject<|eot_id|>"}
+{"Custom ID":"task-52","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input \"file-facet-2761e29c-e282-4147-a6d5-1a6fde1d75ec\" belongs to:\n\n1. FileFacet\n2. Facet\n3. File\n4. FileSystemFacet\n5. ObservableObject\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-53","Response":"<|begin_of_text|>\n\n1. FileFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing\n5. ObservableObject\n6. UcoObject\n7. Item<|eot_id|>"}
+{"Custom ID":"task-54","Response":"<|begin_of_text|>\n\n1. FileFacet\n2. Facet\n3. File\n4. FileSystemFacet\n5. FileSystem\n6. ObservableObject\n7. Item<|eot_id|>"}
+{"Custom ID":"task-55","Response":"<|begin_of_text|>\n\n1. FileFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-56","Response":"<|begin_of_text|>\n\n1. FileFacet\n2. Facet\n3. FileSystemFacet\n4. UcoObject\n5. UcoThing<|eot_id|>"}
+{"Custom ID":"task-57","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. FileSystemFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing\n5. ObservableObject\n6. Item\n7. Observable\n8. UcoObject<|eot_id|>"}
+{"Custom ID":"task-58","Response":"<|begin_of_text|>\n\n1. FileSystem\n2. FileSystemFacet\n3. ObservableObject\n4. Item\n5. Observable\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-59","Response":"<|begin_of_text|>\n\n1. Image\n2. FileSystemObject\n3. ObservableObject\n4. Item\n5. Observable\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-60","Response":"<|begin_of_text|>\n\n1. Hash\n2. FileFacet\n3. ObservableObject\n4. Item\n5. Observable\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-61","Response":"<|begin_of_text|>\n\n1. Hash\n2. FileFacet\n3. DigitalAccountFacet\n4. UcoObject\n5. Item\n6. Observable\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-62","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. Hash\n2. DigitalAccount\n3. Account\n4. ObservableObject\n5. Item\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-63","Response":"<|begin_of_text|>\n\n1. Hash\n2. ObservableObject\n3. Item\n4. Observable\n5. UcoObject\n6. UcoThing<|eot_id|>"}
+{"Custom ID":"task-64","Response":"<|begin_of_text|>\n\n1. Hash\n2. Item\n3. ObservableObject\n4. Observable\n5. UcoObject\n6. UcoThing\n7. FileFacet<|eot_id|>"}
+{"Custom ID":"task-65","Response":"<|begin_of_text|>\n\n1. Hash\n2. ObservableObject\n3. Item\n4. Observable\n5. UcoObject\n6. UcoThing<|eot_id|>"}
+{"Custom ID":"task-66","Response":"<|begin_of_text|>\n\n1. Investigation\n2. InvestigativeAction\n3. Identity\n4. IdentityAbstraction\n5. UcoObject\n6. UcoThing\n7. Person<|eot_id|>"}
+{"Custom ID":"task-67","Response":"<|begin_of_text|>\n\n1. InvestigativeAction\n2. Action\n3. Investigation\n4. ObservableObject\n5. Item\n6. Observable\n7. UcoObject\n8. UcoThing<|eot_id|>"}
+{"Custom ID":"task-68","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input \"lab-c44e4679-26e3-4585-aaa1-86110db936f8\" belongs to:\n\n1. Investigation\n2. ObservableObject\n3. UcoObject\n4. UcoThing\n5. Item\n6. Observable\n7. Device\n8. Account<|eot_id|>"}
+{"Custom ID":"task-69","Response":"<|begin_of_text|>\n\n1. LatLongCoordinatesFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-70","Response":"<|begin_of_text|>\n\n1. LatLongCoordinatesFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-71","Response":"<|begin_of_text|>\n\n1. MobileDevice\n2. Device\n3. ObservableObject\n4. Item\n5. Observable\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-72","Response":"<|begin_of_text|>\n\n1. PhoneAccount\n2. MobileAccount\n3. Account\n4. DigitalAccount\n5. AccountFacet\n6. DigitalAccountFacet\n7. PhoneAccountFacet\n8. AccountAuthenticationFacet<|eot_id|>"}
+{"Custom ID":"task-73","Response":"<|begin_of_text|>\n\n1. Message\n2. MessageFacet\n3. ObservableObject\n4. Item\n5. Observable\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-74","Response":"<|begin_of_text|>\n\n1. MessageFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-75","Response":"<|begin_of_text|>\n\n1. MessageFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-76","Response":"<|begin_of_text|>\n\n1. SMSMessage\n2. Message\n3. File\n4. FileSystemObject\n5. Item\n6. Observable\n7. UcoObject\n8. UcoThing<|eot_id|>"}
+{"Custom ID":"task-77","Response":"<|begin_of_text|>\n\n1. MobileAccountFacet\n2. Facet\n3. AccountFacet\n4. Account\n5. DigitalAccountFacet\n6. UcoInherentCharacterizationThing\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-78","Response":"<|begin_of_text|>\n\n1. MobileDeviceFacet\n2. Facet\n3. AndroidDeviceFacet\n4. DeviceFacet\n5. ObservableObject\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-79","Response":"<|begin_of_text|>\n\n1. MobileAccount\n2. Account\n3. PhoneAccount\n4. MobileAccountFacet\n5. AccountFacet\n6. PhoneAccountFacet\n7. DigitalAccount\n8. ApplicationAccountFacet<|eot_id|>"}
+{"Custom ID":"task-80","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. OperatingSystemFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-81","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. Organization\n2. UcoObject\n3. UcoThing<|eot_id|>"}
+{"Custom ID":"task-82","Response":"<|begin_of_text|>\n\n1. Organization\n2. Identity\n3. Account\n4. UcoObject\n5. UcoThing<|eot_id|>"}
+{"Custom ID":"task-83","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. Organization\n2. Identity\n3. UcoObject\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-84","Response":"<|begin_of_text|>\n\n1. Organization\n2. Identity\n3. IdentityAbstraction\n4. UcoObject\n5. UcoThing<|eot_id|>"}
+{"Custom ID":"task-85","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. Organization\n2. ApplicationFacet\n3. Application\n4. UcoObject\n5. UcoThing\n6. ObservableObject\n7. Item\n8. Observable<|eot_id|>"}
+{"Custom ID":"task-86","Response":"<|begin_of_text|>\n\n1. Organization\n2. Identity\n3. IdentityAbstraction\n4. UcoObject\n5. UcoThing<|eot_id|>"}
+{"Custom ID":"task-87","Response":"<|begin_of_text|>\n\n1. DiskPartition\n2. FileSystem\n3. FileSystemFacet\n4. ObservableObject\n5. Item\n6. Observable\n7. UcoObject\n8. UcoThing<|eot_id|>"}
+{"Custom ID":"task-88","Response":"<|begin_of_text|>\n\n1. PathRelationFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-89","Response":"<|begin_of_text|>\n\n1. PhoneAccountFacet\n2. Facet\n3. MobileAccountFacet\n4. AccountFacet\n5. DigitalAccountFacet\n6. UcoInherentCharacterizationThing\n7. UcoThing\n8. SIMCardFacet<|eot_id|>"}
+{"Custom ID":"task-90","Response":"<|begin_of_text|>\n\n1. PhoneAccountFacet\n2. Facet\n3. AccountFacet\n4. DigitalAccountFacet\n5. MobileAccountFacet\n6. AccountAuthenticationFacet\n7. PhoneAccount\n8. MobileAccount<|eot_id|>"}
+{"Custom ID":"task-91","Response":"<|begin_of_text|>\n\n1. PhoneAccount\n2. Account\n3. MobileAccount\n4. AccountFacet\n5. PhoneAccountFacet\n6. MobileAccountFacet\n7. AccountAuthenticationFacet\n8. DigitalAccount<|eot_id|>"}
+{"Custom ID":"task-92","Response":"<|begin_of_text|>\n\n1. AccountFacet\n2. Facet\n3. Account\n4. DigitalAccountFacet\n5. DigitalAccount\n6. ObservableObject\n7. Item\n8. UcoObject<|eot_id|>"}
+{"Custom ID":"task-93","Response":"<|begin_of_text|>\n\n1. EmailAccount\n2. EmailAccountFacet\n3. Account\n4. DigitalAccount\n5. AccountFacet\n6. Identity\n7. IdentityAbstraction\n8. UcoObject<|eot_id|>"}
+{"Custom ID":"task-94","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. PhoneAccountFacet\n2. Facet\n3. AccountFacet\n4. DigitalAccountFacet\n5. EmailAccountFacet\n6. Account\n7. Identity\n8. UcoObject<|eot_id|>"}
+{"Custom ID":"task-95","Response":"<|begin_of_text|>\n\n1. ProvenanceRecord\n2. Investigation\n3. Identity\n4. IdentityAbstraction\n5. UcoObject\n6. UcoThing<|eot_id|>"}
+{"Custom ID":"task-96","Response":"<|begin_of_text|>\n\n1. ProvenanceRecord\n2. ObservableObject\n3. Item\n4. Observable\n5. UcoObject\n6. UcoThing<|eot_id|>"}
+{"Custom ID":"task-97","Response":"<|begin_of_text|>\n\n1. RecoveredObjectFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-98","Response":"<|begin_of_text|>\n\n1. ObservableRelationship\n2. Relationship\n3. Observable\n4. UcoObject\n5. UcoThing\n6. Item\n7. Device\n8. Account<|eot_id|>"}
+{"Custom ID":"task-99","Response":"<|begin_of_text|>\n\n1. ObservableRelationship\n2. Relationship\n3. Observable\n4. UcoObject\n5. UcoThing\n6. Item\n7. Device\n8. Account<|eot_id|>"}
+{"Custom ID":"task-100","Response":"<|begin_of_text|>\n\n1. SIMCardFacet\n2. Facet\n3. MobileAccountFacet\n4. DataRangeFacet\n5. UcoInherentCharacterizationThing\n6. UcoThing\n7. ObservableObject\n8. Item<|eot_id|>"}
+{"Custom ID":"task-101","Response":"<|begin_of_text|>\n\n1. SIMCardFacet\n2. MobileAccountFacet\n3. PhoneAccount\n4. MobileDevice\n5. Device\n6. ObservableObject\n7. Item\n8. Observable<|eot_id|>"}
+{"Custom ID":"task-102","Response":"<|begin_of_text|>\n\n1. SIMCardFacet\n2. Facet\n3. SIMCard\n4. MobileAccountFacet\n5. MobileDeviceFacet\n6. PhoneAccountFacet\n7. DeviceFacet\n8. MobileAccount<|eot_id|>"}
+{"Custom ID":"task-103","Response":"<|begin_of_text|>\n\n1. SIMCardFacet\n2. Facet\n3. ObservableRelationship\n4. Observable\n5. Relationship\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-104","Response":"<|begin_of_text|>\n\n1. SimpleNameFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-105","Response":"<|begin_of_text|>\n\n1. SimpleNameFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-106","Response":"<|begin_of_text|>\n\n1. PhoneAccount\n2. MobileAccount\n3. MobileDevice\n4. PhoneAccountFacet\n5. MobileDeviceFacet\n6. ApplicationAccountFacet\n7. SIMCardFacet\n8. MACAddressFacet<|eot_id|>"}
+{"Custom ID":"task-107","Response":"<|begin_of_text|>\n\n1. ApplicationFacet\n2. Application\n3. ObservableObject\n4. Item\n5. Observable\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-108","Response":"<|begin_of_text|>\n\n1. Message\n2. MessageFacet\n3. SMSMessage\n4. Observable\n5. ObservableObject\n6. Item\n7. UcoObject\n8. UcoThing<|eot_id|>"}
+{"Custom ID":"task-109","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input \"sms-message-2c032220-8c21-11e9-9c99-0c4de9c21b53\" belongs to:\n\n1. SMSMessage\n2. Message\n3. MessageFacet\n4. ObservableObject\n5. Item\n6. Observable\n7. UcoObject\n8. UcoThing<|eot_id|>"}
+{"Custom ID":"task-110","Response":"<|begin_of_text|>\n\n1. TableRelationFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-111","Response":"<|begin_of_text|>\n\n1. TableRelationFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing\n5. FileFacet\n6. FileSystemFacet\n7. DataRangeFacet<|eot_id|>"}
+{"Custom ID":"task-112","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input belongs to:\n\n1. TableRelationFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-113","Response":"<|begin_of_text|>\n\n1. PhoneAccount\n2. MobileAccount\n3. SIMCardFacet\n4. MobileDeviceFacet\n5. Device\n6. Account\n7. AccountFacet\n8. Identity<|eot_id|>"}
+{"Custom ID":"task-114","Response":"<|begin_of_text|>\n\n1. PhoneAccount\n2. MobileAccount\n3. Account\n4. DigitalAccount\n5. ObservableObject\n6. Item\n7. UcoObject\n8. UcoThing<|eot_id|>"}
+{"Custom ID":"task-115","Response":"<|begin_of_text|>\n\n1. PhoneAccountFacet\n2. Facet\n3. MobileAccountFacet\n4. AccountFacet\n5. UcoObject\n6. UcoThing\n7. Observable\n8. Item<|eot_id|>"}
+{"Custom ID":"task-116","Response":"<|begin_of_text|>\n\n1. URLFacet\n2. Facet\n3. URL\n4. ObservableObject\n5. UcoObject\n6. UcoThing\n7. Observable<|eot_id|>"}
+{"Custom ID":"task-117","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input \"url-facet-f2618636-aec3-459e-bda7-eeedfbeac3c0\" belongs to:\n\n1. URLFacet\n2. Facet\n3. UcoInherentCharacterizationThing\n4. UcoThing<|eot_id|>"}
+{"Custom ID":"task-118","Response":"<|begin_of_text|>\n\n1. URLHistory\n2. URLHistoryFacet\n3. ObservableObject\n4. Item\n5. Observable\n6. UcoObject\n7. UcoThing<|eot_id|>"}
+{"Custom ID":"task-119","Response":"<|begin_of_text|>\n\n1. URLHistoryEntry\n2. URLHistory\n3. URLFacet\n4. URLHistoryFacet\n5. URL\n6. File\n7. FileSystemObject<|eot_id|>"}
+{"Custom ID":"task-120","Response":"<|begin_of_text|>\n\n1. URLHistoryFacet\n2. Facet\n3. URLFacet\n4. UcoInherentCharacterizationThing\n5. UcoThing<|eot_id|>"}
+{"Custom ID":"task-121","Response":"<|begin_of_text|>\n\n1. FileSystem\n2. DiskPartition\n3. FileSystemFacet\n4. ObservableObject\n5. Item\n6. Observable\n7. UcoObject<|eot_id|>"}
+{"Custom ID":"task-122","Response":"<|begin_of_text|>\n\n1. BluetoothAddressFacet\n2. WifiAddressFacet\n3. MACAddressFacet\n4. Facet\n5. UcoInherentCharacterizationThing\n6. UcoThing\n7. DigitalAddressFacet\n8. Address<|eot_id|>"}

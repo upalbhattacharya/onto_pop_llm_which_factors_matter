@@ -1,0 +1,30 @@
+2025-04-09 15:32:36,969 [CRITICAL] root logging_conf:log_exception 36:: Error Information:
+Traceback (most recent call last):
+  File "/home/upal/PhD/Experiments/onto_pop_llm_which_factors_matter/src/onto_pop_llm_which_factors_matter/model/open_ai/batch/create_batch/onto_pop.py", line 151, in <module>
+    tasks, df = create_ranked_retrieval_batch(test_data, run_args)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/upal/PhD/Experiments/onto_pop_llm_which_factors_matter/src/onto_pop_llm_which_factors_matter/model/open_ai/batch/create_batch/onto_pop.py", line 62, in create_ranked_retrieval_batch
+    inst, messages, label = next(test_data)
+                            ^^^^^^^^^^^^^^^
+  File "/home/upal/PhD/Experiments/onto_pop_llm_which_factors_matter/src/onto_pop_llm_which_factors_matter/model/open_ai/datasets/onto_pop.py", line 142, in __getitem__
+    examples=self.generate_examples(),
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/upal/PhD/Experiments/onto_pop_llm_which_factors_matter/src/onto_pop_llm_which_factors_matter/model/open_ai/datasets/onto_pop.py", line 97, in generate_examples
+    for row in self.examples.rows():
+               ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'rows'
+2025-04-09 15:34:14,775 [CRITICAL] root logging_conf:log_exception 36:: Error Information:
+Traceback (most recent call last):
+  File "/home/upal/PhD/Experiments/onto_pop_llm_which_factors_matter/src/onto_pop_llm_which_factors_matter/model/open_ai/batch/create_batch/onto_pop.py", line 151, in <module>
+    tasks, df = create_ranked_retrieval_batch(test_data, run_args)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/upal/PhD/Experiments/onto_pop_llm_which_factors_matter/src/onto_pop_llm_which_factors_matter/model/open_ai/batch/create_batch/onto_pop.py", line 62, in create_ranked_retrieval_batch
+    inst, messages, label = next(test_data)
+                            ^^^^^^^^^^^^^^^
+  File "/home/upal/PhD/Experiments/onto_pop_llm_which_factors_matter/src/onto_pop_llm_which_factors_matter/model/open_ai/datasets/onto_pop.py", line 143, in __getitem__
+    examples=self.generate_examples(),
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/upal/PhD/Experiments/onto_pop_llm_which_factors_matter/src/onto_pop_llm_which_factors_matter/model/open_ai/datasets/onto_pop.py", line 97, in generate_examples
+    for row in self.examples.rows():
+               ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'rows'

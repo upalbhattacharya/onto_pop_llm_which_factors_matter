@@ -1,0 +1,68 @@
+{"Custom ID":"task-0","Response":"1. astronomicalSoftware\n2. dataCollection\n3. astronomicalCatalog\n4. astronomyEntity\n5. astronomicalConstant\n6. astronomicalInstitution\n7. astroObject\n8. astronomicalImageProcessingSystem\n9. astronomicalConstant\n10. astroMatterObject"}
+{"Custom ID":"task-1","Response":"['astronomicalCatalog', 'astronomyEntity', 'galaxyCatalog','stellarSystemCatalog']"}
+{"Custom ID":"task-2","Response":"['dataCollection','survey', 'astronomicalCatalog', 'astronomyEntity']"}
+{"Custom ID":"task-3","Response":"['planet','solarSystemPlanet']"}
+{"Custom ID":"task-4","Response":"Here is the ranked list of classes that \"EarthEquator\" belongs to:\n\n1. equator\n2. planetEquator"}
+{"Custom ID":"task-5","Response":"1. astronomicalCatalog\n2. galaxyCatalog\n3. stellarSystemCatalog\n4. systemOfStars\n5. systemOfGalaxies\n6. galaxy\n7. galaxyGroup\n8. galaxyCatalog\n9. supercluster\n10. astronomyEntity"}
+{"Custom ID":"task-6","Response":"1. galaxyPart\n2. galaxy\n3. celestialPole\n4. galaxyGroup\n5. galaxyCatalog\n6. galaxyCenter\n7. galaxyBulge\n8. galaxyHalo\n9. galaxyPart\n10. systemOfGalaxies"}
+{"Custom ID":"task-7","Response":"1. galaxy\n2. galaxyPart\n3. galaxyHalo\n4. galaxyBulge\n5. galaxyCenter\n6. galaxyCatalog\n7. galaxyGroup\n8. diskGalaxy\n9. spiralGalaxy\n10. irregularGalaxy"}
+{"Custom ID":"task-8","Response":"['galaxy', 'galaxyCenter', 'astronomyEntity', 'galaxyPart', 'galaxyCatalog', 'astronomicalConstant', 'astroObject', 'astronomyEntity', 'galaxy', 'galaxyGroup', 'galaxyCatalog']"}
+{"Custom ID":"task-9","Response":"1. galaxy\n2. diskGalaxy\n3. galaxyPart\n4. galaxyBulge\n5. galaxyHalo\n6. galaxyCenter\n7. galaxyCatalog\n8. galaxyGroup\n9. diskOfGalaxy\n10. MagellanicCloud"}
+{"Custom ID":"task-10","Response":"1. galaxyHalo\n2. galaxyPart\n3. galaxy\n4. galaxyGroup\n5. galaxyCatalog\n6. diskGalaxy\n7. spiralGalaxy\n8. irregularGalaxy\n9. galaxyBulge\n10. MagellanicCloud"}
+{"Custom ID":"task-11","Response":"1. galaxy\n2. plane\n3. galaxyPart\n4. system\n5. astronomicalEntity\n6. astronomyEntity\n7. physicalObject\n8. astroObject\n9. matterObject\n10. celestialPole"}
+{"Custom ID":"task-12","Response":"1. galaxy\n2. astronomicalConstant\n3. astronomicalEntity\n4. physicalObject\n5. astronomicalCatalog\n6. galaxyCatalog\n7. galaxyPart\n8. galaxyGroup\n9. supercluster\n10. celestialPole"}
+{"Custom ID":"task-13","Response":"1. astronomicalCatalog\n2. astronomyEntity\n3. galaxyCatalog\n4. stellarSystemCatalog\n5. systemOfGalaxies\n6. galaxy\n7. astronomicalConstant\n8. physicalConstant\n9. institution\n10. astronomySoftware"}
+{"Custom ID":"task-14","Response":"Here is the ranked list of classes that the input belongs to:\n\n1. AstronomicalCatalog\n2. AstronomicalInstitution\n3. AstronomicalSoftware\n4. AstroMatterObject\n5. AstronomyEntity\n6. GalaxyCatalog\n7. StellarObject\n8. AstronomicalConstant\n9. PhysicalConstant\n10. Institution"}
+{"Custom ID":"task-15","Response":"[1] astronomicalCatalog\n[2] starCatalog\n[3] galaxyCatalog\n[4] stellarSystemCatalog\n[5] systemOfGalaxies\n[6] galaxyCatalog\n[7] astronomicalConstant\n[8] physicalConstant\n[9] gravityLaw\n[10] KeplersLaw"}
+{"Custom ID":"task-16","Response":"1. dataCollection\n2. astronomicalSoftware\n3. astronomyEntity\n4. institution\n5. survey\n6. astronomicalCatalog\n7. astronomyInstitution\n8. astronomicalConstant\n9. physicalConstant\n10. invention"}
+{"Custom ID":"task-17","Response":"Here is the ranked list of classes:\n\n1. astronomicalInstitution\n2. institution\n3. dataCollection\n4. astronomicalCatalog\n5. astronomyEntity\n6. astronomicalSoftware\n7. galaxyCatalog\n8. starCatalog\n9. survey\n10. astronomyEntity"}
+{"Custom ID":"task-18","Response":"Here is the ranked list of classes that the user input \"InteractiveDataLanguage\" belongs to:\n\n1. astronomicalSoftware\n2. dataCollection\n3. survey\n4. astronomyEntity\n5. astronomicalCatalog\n6. institution\n7. invention\n8. astronomicalConstant\n9. physicalConstant\n10. source"}
+{"Custom ID":"task-19","Response":"1. astronomicalInstitution\n2. institution"}
+{"Custom ID":"task-20","Response":"1. planet\n2. solarSystemPlanet\n3. astronomicalObject\n4. celestialObject\n5. rotatingBody\n6. astronomicalEntity\n7. physicalObject\n8. planetarySystemPart\n9. astronomicalConstant\n10. stellarObject"}
+{"Custom ID":"task-21","Response":"[1] KeplersLaw\n[2] gravityLaw\n[3] astronomicalConstant\n[4] physicalConstant\n[5] astronomyEntity\n[6] celestialPole\n[7] galaxyCatalog\n[8] stellarSystemCatalog\n[9] systemOfGalaxies\n[10] supercluster"}
+{"Custom ID":"task-22","Response":"1. astronomicalConstant\n2. gravityLaw\n3. KeplersLaw"}
+{"Custom ID":"task-23","Response":"[1] gravityLaw\n[2] KeplersLaw"}
+{"Custom ID":"task-24","Response":"Here is the ranked list of classes that \"LaboratoryForHighEnergyAstrophysics\" belongs to:\n\n1. astronomicalInstitution\n2. institution\n3. astronomyEntity"}
+{"Custom ID":"task-25","Response":"1. galaxyGroup\n2. galaxy\n3. galaxyCatalog\n4. galaxyPart\n5. galaxyBulge\n6. galaxyCenter\n7. galaxyHalo\n8. diskOfGalaxy\n9. diskGalaxy\n10. MagellanicCloud"}
+{"Custom ID":"task-26","Response":"1. supercluster\n2. galaxyGroup\n3. systemOfGalaxies\n4. galaxyCatalog\n5. galaxy\n6. galaxyPart\n7. galaxyBulge\n8. galaxyHalo\n9. diskOfGalaxy\n10. MagellanicCloud"}
+{"Custom ID":"task-27","Response":"['planet','solarSystemPlanet']"}
+{"Custom ID":"task-28","Response":"1. solarSystemPlanet\n2. planet\n3. rotatingBody\n4. astronomicalObject\n5. physicalObject\n6. celestialPole\n7. system\n8. astronomicalEntity\n9. astronomyEntity\n10. stellarObject"}
+{"Custom ID":"task-29","Response":"Here is the ranked list of classes that 'MessierCatalog' belongs to:\n\n1. astronomicalCatalog\n2. astronomicalSoftware\n3. starCatalog\n4. galaxyCatalog\n5. systemOfGalaxies\n6. systemOfStars\n7. planetarySystem\n8. celestialPole\n9. astronomicalConstant\n10. astronomyEntity"}
+{"Custom ID":"task-30","Response":"1. galaxy\n2. galaxyPart\n3. galaxyBulge\n4. galaxyCenter\n5. galaxyCatalog\n6. galaxyGroup\n7. galaxyHalo\n8. diskGalaxy\n9. spiralGalaxy\n10. irregularGalaxy"}
+{"Custom ID":"task-31","Response":"['naturalSatellite','satellite', 'planet', 'physicalObject']"}
+{"Custom ID":"task-32","Response":"1. dataCollection\n2. astronomicalSoftware\n3. survey\n4. astronomyEntity\n5. source\n6. institution\n7. system\n8. astronomy\n9. galaxy\n10. astronomicalConstant"}
+{"Custom ID":"task-33","Response":"Here is the ranked list of classes:\n\n1. astronomicalInstitution\n2. institution\n3. astronomyEntity\n4. astronomicalObject\n5. astroObject\n6. astronomicalSoftware\n7. astronomicalCatalog\n8. astronomyEntity\n9. astronomicalConstant\n10. physicalObject"}
+{"Custom ID":"task-34","Response":"Here is the ranked list of classes that the input belongs to:\n\n1. astronomicalInstitution\n2. institution\n3. astronomyEntity"}
+{"Custom ID":"task-35","Response":"1. solarSystemPlanet\n2. planet\n3. planetarySystemPart"}
+{"Custom ID":"task-36","Response":"1. astronomicalCatalog\n2. galaxyCatalog\n3. starCatalog\n4. stellarSystemCatalog\n5. astronomyEntity\n6. institution\n7. astronomicalInstitution\n8. astroObject\n9. astronomicalSoftware\n10. galaxy"}
+{"Custom ID":"task-37","Response":"1. celestialPole\n2. GalacticPole\n3. eclipticPole\n4. direction\n5. point\n6. plane\n7. equator\n8. pole\n9. apex\n10. antapex"}
+{"Custom ID":"task-38","Response":"1. direction\n2. equator\n3. plane\n4. pole\n5. apex\n6. celestialPole\n7. GalacticPole\n8. eclipticPole\n9. antapex\n10. NorthEclipticPole"}
+{"Custom ID":"task-39","Response":"Here is the ranked list of classes that \"NorthGalacticPole\" belongs to:\n\n1. GalacticPole\n2. direction\n3. point\n4. astronomyEntity\n5. celestialPole\n6. galaxyPart\n7. galaxy\n8. astronomicalConstant\n9. astronomicalCatalog\n10. astronomyEntity"}
+{"Custom ID":"task-40","Response":"1. astronomicalConstant\n2. physicalConstant\n3. gravityLaw\n4. KeplersLaw\n5. astronomicalCatalog\n6. galaxyCatalog\n7. stellarSystemCatalog\n8. astronomyEntity\n9. physicalObject\n10. astroObject"}
+{"Custom ID":"task-41","Response":"1. skySurvey\n2. astronomyEntity\n3. survey\n4. astronomicalCatalog\n5. astronomySoftware\n6. astroObject\n7. dataCollection\n8. astronomicalConstant\n9. institution\n10. astronomicalInstitution"}
+{"Custom ID":"task-42","Response":"Here is the ranked list of classes that RoyalGreenwichObservatory belongs to:\n\n1. astronomicalInstitution\n2. institution\n3. astronomyEntity"}
+{"Custom ID":"task-43","Response":"1. astronomyEntity\n2. astronomicalCatalog\n3. astronomicalConstant\n4. astronomicalSoftware\n5. dataCollection\n6. institution\n7. survey\n8. astronomyInstitution\n9. source\n10. system"}
+{"Custom ID":"task-44","Response":"1. star\n2. stellarObject\n3. starCatalog"}
+{"Custom ID":"task-45","Response":"1. solarSystemPlanet\n2. planet\n3. astronomicalObject\n4. celestialBody\n5. rotatingBody\n6. astronomicalEntity\n7. planetarySystemPart\n8. planetarySystem\n9. star\n10. astronomicalConstant"}
+{"Custom ID":"task-46","Response":"Here is the ranked list of classes:\n\n1. astronomyEntity\n2. astronomicalCatalog\n3. astronomicalSoftware\n4. astroObject\n5. astronomicalConstant\n6. astronomyEntity\n7. astroMatterObject\n8. astronomicalInstitution\n9. institution\n10. dataCollection"}
+{"Custom ID":"task-47","Response":"Here is the ranked list of classes that ShapleyAmesCatalog belongs to:\n\n1. astronomicalCatalog\n2. starCatalog\n3. astronomicalEntity\n4. astronomySoftware\n5. astroObject\n6. dataCollection\n7. institution\n8. astronomicalInstitution\n9. astronomicalConstant\n10. physicalConstant"}
+{"Custom ID":"task-48","Response":"1. galaxy\n2. MagellanicCloud\n3. galaxyGroup\n4. galaxyCatalog\n5. astronomicalEntity\n6. astronomicalObject\n7. astronomicalCatalog\n8. astronomyEntity\n9. galaxyPart\n10. systemOfGalaxies"}
+{"Custom ID":"task-49","Response":"1. astronomicalInstitution\n2. institution\n3. astronomyEntity"}
+{"Custom ID":"task-50","Response":"1. astralEntity\n2. astronomicalConstant\n3. celestialPole\n4. direction\n5. point\n6. satellite\n7. system\n8. astronomicalCatalog\n9. survey\n10. institution"}
+{"Custom ID":"task-51","Response":"1. solarSystemPlanet\n2. planetarySystem\n3. planetarySystemPart"}
+{"Custom ID":"task-52","Response":"1. Apex\n2. CelestialPole\n3. GalacticPole\n4. Pole\n5. Antapex\n6. Direction\n7. Point\n8. Plane\n9. Equator\n10. StellarObject"}
+{"Custom ID":"task-53","Response":"1. CelestialPole\n2. GalacticPole\n3. EclipticPole\n4. Apex\n5. Antapex\n6. Pole\n7. Direction\n8. Point\n9. Plane\n10. Equator"}
+{"Custom ID":"task-54","Response":"1. direction\n2. point\n3. equator\n4. eclipticPole\n5. celestialPole\n6. GalacticPole\n7. plane\n8. system\n9. star\n10. astronomyEntity"}
+{"Custom ID":"task-55","Response":"1. GalacticPole\n2. CelestialPole\n3. Apex\n4. Antapex\n5. Equator\n6. Pole\n7. Direction\n8. Point\n9. Plane\n10. Galaxy"}
+{"Custom ID":"task-56","Response":"Here is the ranked list of classes that the input belongs to:\n\n1. astronomyEntity\n2. dataCollection\n3. astronomicalCatalog\n4. astronomySoftware\n5. galaxyCatalog\n6. stellarSystemCatalog\n7. physicalObject\n8. astronomicalConstant\n9. gravityLaw\n10. KeplersLaw"}
+{"Custom ID":"task-57","Response":"1. astronomicalInstitution\n2. institution"}
+{"Custom ID":"task-58","Response":"1. star\n2. solarSystemPlanet"}
+{"Custom ID":"task-59","Response":"1. system\n2. plane\n3. galaxy\n4. supercluster\n5. galaxyGroup\n6. galaxyCatalog\n7. systemOfGalaxies\n8. celestialPole\n9. galaxyPart\n10. galaxyBulge"}
+{"Custom ID":"task-60","Response":"1. dataCollection\n2. skySurvey\n3. astronomicalCatalog\n4. astronomyEntity\n5. source\n6. astronomicalSoftware\n7. galaxyCatalog\n8. stellarSystemCatalog\n9. astronomicalInstitution\n10. institution"}
+{"Custom ID":"task-61","Response":"Here is the ranked list of classes that Tycho2Catalog belongs to:\n\n1. astronomicalCatalog\n2. dataCollection\n3. astronomyEntity\n4. astroObject\n5. astronomicalSoftware\n6. galaxyCatalog\n7. stellarSystemCatalog\n8. starCatalog\n9. survey\n10. institution"}
+{"Custom ID":"task-62","Response":"1. planet\n2. solarSystemPlanet\n3. celestialPole\n4. planetEquator\n5. planetarySystem\n6. planetarySystemPart\n7. systemOfStars\n8. systemOfGalaxies\n9. astronomicalEntity\n10. astronomyEntity"}
+{"Custom ID":"task-63","Response":"['solarSystemPlanet', 'planet', 'physicalObject']"}
+{"Custom ID":"task-64","Response":"1. astronomicalConstant\n2. astronomicalCatalog\n3. astronomicalSoftware\n4. astronomyEntity"}
+{"Custom ID":"task-65","Response":"1. equator\n2. direction\n3. plane\n4. system\n5. astronomicalConstant\n6. celestialPole\n7. galaxy\n8. galaxyPart\n9. astronomicalEntity\n10. astronomy"}
+{"Custom ID":"task-66","Response":"Here is the ranked list of classes that \"centerOfEarth\" belongs to:\n\n1. planetEquator\n2. equator\n3. direction\n4. point\n5. astronomicalConstant\n6. physicalConstant\n7. planet\n8. rotatingBody\n9. celestialPole\n10. astronomicalEntity"}
+{"Custom ID":"task-67","Response":"1. galaxy\n2. MagellanicCloud\n3. galaxyGroup\n4. galaxyCatalog\n5. astronomicalEntity\n6. galaxyPart\n7. galaxyHalo\n8. galaxyBulge\n9. diskOfGalaxy\n10. galaxyCenter"}

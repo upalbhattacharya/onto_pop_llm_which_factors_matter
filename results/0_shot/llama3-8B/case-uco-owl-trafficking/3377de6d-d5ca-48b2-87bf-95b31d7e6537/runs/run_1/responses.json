@@ -1,0 +1,131 @@
+{"Custom ID":"task-0","Response":"['URLHistoryFacet', 'URLHistory', 'URL', 'PathRelationFacet', 'FileFacet', 'DigitalAccountFacet', 'AccountFacet', 'Facet', 'FileSystemFacet']"}
+{"Custom ID":"task-1","Response":"['DigitalAccountFacet', 'AccountFacet', 'AccountAuthenticationFacet', 'DigitalAddressFacet', 'EmailAccountFacet', 'MobileAccountFacet', 'PhoneAccountFacet', 'Account']"}
+{"Custom ID":"task-2","Response":"1. AccountFacet\n2. AccountAuthenticationFacet\n3. DigitalAccountFacet\n4. EmailAccountFacet\n5. EmailAccount\n6. DigitalAccount\n7. MobileAccountFacet\n8. PhoneAccount"}
+{"Custom ID":"task-3","Response":"Here is the ranked list of classes that the input belongs to:\n\n1. AccountAuthenticationFacet\n2. Facet\n3. DigitalAccountFacet\n4. AccountFacet\n5. IdentityFacet\n6. ApplicationAccountFacet\n7. PhoneAccountFacet\n8. MobileAccountFacet"}
+{"Custom ID":"task-4","Response":"Here is the ranked list of classes:\n\n1. AccountFacet\n2. DigitalAccountFacet\n3. PhoneAccountFacet\n4. EmailAccountFacet\n5. Account\n6. MobileAccount\n7. EmailAccount\n8. DigitalAccount"}
+{"Custom ID":"task-5","Response":"1. DigitalAccountFacet\n2. AccountFacet\n3. EmailAccountFacet\n4. MobileAccountFacet\n5. PhoneAccountFacet\n6. AccountAuthenticationFacet\n7. DeviceFacet\n8. FileSystemFacet"}
+{"Custom ID":"task-6","Response":"['DigitalAccountFacet', 'AccountFacet', 'EmailAccountFacet', 'PhoneAccountFacet', 'MobileAccountFacet', 'AccountAuthenticationFacet', 'ApplicationAccountFacet', 'FileSystemAccountFacet', 'DigitalAddressFacet']"}
+{"Custom ID":"task-7","Response":"Here is the ranked list of classes that the input belongs to:\n\n1. AccountFacet\n2. DigitalAccountFacet\n3. MobileAccountFacet\n4. EmailAccountFacet\n5. PhoneAccountFacet\n6. AccountAuthenticationFacet\n7. Account\n8. IdentityFacet"}
+{"Custom ID":"task-8","Response":"Here is the ranked list of classes:\n\n1. DigitalAccountFacet\n2. AccountFacet\n3. AccountAuthenticationFacet\n4. MobileAccountFacet\n5. EmailAccountFacet\n6. PhoneAccountFacet\n7. Account\n8. EmailAccount"}
+{"Custom ID":"task-9","Response":"['AccountFacet', 'AccountAuthenticationFacet', 'DigitalAccountFacet', 'EmailAccountFacet', 'MobileAccountFacet', 'PhoneAccountFacet', 'Account', 'Account']"}
+{"Custom ID":"task-10","Response":"['DigitalAccount', 'Account', 'MobileAccount', 'DigitalAccountFacet', 'AccountFacet', 'PhoneAccountFacet', 'EmailAccountFacet', 'AccountAuthenticationFacet']"}
+{"Custom ID":"task-11","Response":"['DigitalAccount', 'MobileAccount', 'Account', 'EmailAccount', 'AccountFacet', 'ApplicationAccountFacet', 'PhoneAccount', 'AccountAuthenticationFacet', 'EmailAccountFacet']"}
+{"Custom ID":"task-12","Response":"['DigitalAccount', 'MobileAccount', 'Account', 'PhoneAccount', 'AccountAuthenticationFacet', 'EmailAccount', 'AccountFacet']"}
+{"Custom ID":"task-13","Response":"Here is the ranked list of classes:\n\n1. DigitalAccountFacet\n2. AccountFacet\n3. MobileAccountFacet\n4. EmailAccountFacet\n5. AccountAuthenticationFacet\n6. PhoneAccountFacet\n7. EmailAddress\n8. DigitalAddress"}
+{"Custom ID":"task-14","Response":"['AndroidDeviceFacet', 'DeviceFacet', 'MobileDeviceFacet', 'Device', 'MobileDevice', 'PhoneAccountFacet', 'SIMCardFacet', 'MobileAccountFacet', 'PhoneAccount']"}
+{"Custom ID":"task-15","Response":"['ApplicationAccountFacet', 'AccountFacet', 'Facet', 'ApplicationAccount', 'Account', 'Item', 'Application', 'Tool']"}
+{"Custom ID":"task-16","Response":"['DigitalAccount', 'Application', 'ApplicationAccountFacet', 'ApplicationFacet', 'FileFacet', 'SimpleNameFacet', 'URLFacet', 'DigitalAddressFacet', 'Account']"}
+{"Custom ID":"task-17","Response":"['ApplicationFacet', 'ApplicationAccountFacet', 'MobileAccountFacet', 'PhoneAccountFacet', 'EmailAccountFacet', 'AccountFacet', 'AccountAuthenticationFacet']"}
+{"Custom ID":"task-18","Response":"['MobileAccountFacet', 'PhoneAccountFacet', 'AccountFacet', 'DigitalAccountFacet', 'MobileAccount', 'Account', 'IdentityFacet', 'IdentityAbstraction', 'UcoThing', 'DeviceFacet', 'AccountAuthenticationFacet']"}
+{"Custom ID":"task-19","Response":"['URLHistoryFacet', 'URLHistory', 'URL', 'Facet', 'FileFacet', 'FileSystemFacet', 'DataRangeFacet', 'ConfigurationEntry']"}
+{"Custom ID":"task-20","Response":"Here is the ranked list of classes:\n\n1. BluetoothAddressFacet\n2. Facet\n3. DigitalAddressFacet\n4. Address\n5. IdentityFacet\n6. SimpleNameFacet\n7. URLFacet\n8. EmailAddressFacet"}
+{"Custom ID":"task-21","Response":"['BootLoaderFacet', 'Facet', 'FileSystemFacet', 'FileFacet', 'ObservableObject', 'Item', 'File', 'FileSystemObject']"}
+{"Custom ID":"task-22","Response":"['URL', 'URLHistory', 'URLHistoryFacet']"}
+{"Custom ID":"task-23","Response":"['URL', 'FileFacet', 'SimpleNameFacet', 'URLFacet', 'File', 'Observable', 'ApplicationFacet', 'Facet', 'FileSystemFacet']"}
+{"Custom ID":"task-24","Response":"['Location', 'Relationship', 'PathRelationFacet']"}
+{"Custom ID":"task-25","Response":"['ConfigurationEntry', 'Configuration', 'AccountAuthenticationFacet', 'AccountFacet', 'ApplicationAccountFacet', 'DeviceFacet', 'FileSystemFacet', 'MobileAccountFacet']"}
+{"Custom ID":"task-26","Response":"['ConfigurationEntry', 'Configuration', 'Item', 'Facet', 'AccountFacet', 'Account', 'DataRangeFacet', 'IdentityAbstraction']"}
+{"Custom ID":"task-27","Response":"['ConfigurationEntry', 'Configuration', 'AccountAuthenticationFacet', 'AccountFacet', 'Facet', 'Item', 'ApplicationAccountFacet', 'Application', 'Account']"}
+{"Custom ID":"task-28","Response":"Here is the ranked list of classes:\n\n1. ContentDataFacet\n2. Facet\n3. FileFacet\n4. DataRangeFacet\n5. DigitalAccountFacet\n6. IdentityFacet\n7. URLFacet\n8. FileSystemFacet"}
+{"Custom ID":"task-29","Response":"['ContentDataFacet', 'Facet', 'DataRangeFacet']"}
+{"Custom ID":"task-30","Response":"['ContentDataFacet', 'Facet', 'FileFacet', 'DataRangeFacet', 'FileFacet', 'DataFacet', 'DigitalAccountFacet', 'ObservableObject', 'FileSystemFacet', 'FileSystemObject']"}
+{"Custom ID":"task-31","Response":"['ContentDataFacet', 'Facet', 'FileSystemFacet', 'DataRangeFacet']"}
+{"Custom ID":"task-32","Response":"['DataRangeFacet', 'Facet', 'FileSystemFacet', 'FileFacet', 'ObservableObject', 'AccountFacet', 'DigitalAccountFacet', 'ApplicationFacet', 'ObservableRelationship']"}
+{"Custom ID":"task-33","Response":"['DataRangeFacet', 'Facet', 'FileSystemFacet', 'ObservableFacet', 'ApplicationFacet', 'AccountFacet', 'DigitalAccountFacet', 'PhoneAccountFacet', 'MobileAccountFacet', 'ApplicationAccountFacet']"}
+{"Custom ID":"task-34","Response":"[1] DataRangeFacet\n[2] Facet\n[3] UcoThing\n[4] UcoObject\n[5] FileSystemFacet\n[6] FileFacet\n[7] URLFacet\n[8] DigitalAddressFacet"}
+{"Custom ID":"task-35","Response":"1. DataRangeFacet\n2. Facet\n3. DigitalAccountFacet\n4. FileSystemFacet\n5. MobileDeviceFacet\n6. ObservableFacet\n7. ApplicationFacet\n8. URLFacet"}
+{"Custom ID":"task-36","Response":"Here is the ranked list of classes that the input belongs to:\n\n1. DataRangeFacet\n2. Facet\n3. FileFacet\n4. DigitalAccountFacet\n5. URLFacet\n6. IdentityFacet\n7. ObservableObject\n8. FileSystemFacet"}
+{"Custom ID":"task-37","Response":"Here is the ranked list of classes:\n\n1. DataRangeFacet\n2. Facet\n3. FileFacet\n4. IdentityFacet\n5. URLFacet\n6. DigitalAccountFacet\n7. ApplicationFacet\n8. FileSystemFacet"}
+{"Custom ID":"task-38","Response":"['DataRangeFacet', 'Facet', 'ConfigurationEntry', 'Configuration', 'AccountAuthenticationFacet', 'Account', 'DigitalAccount', 'FileFacet']"}
+{"Custom ID":"task-39","Response":"Here is the ranked list of classes:\n\n1. DeviceFacet\n2. MACAddressFacet\n3. BluetoothAddressFacet\n4. WifiAddressFacet\n5. DigitalAddressFacet\n6. LatLongCoordinatesFacet\n7. MobileDeviceFacet\n8. AndroidDeviceFacet"}
+{"Custom ID":"task-40","Response":"Here is the ranked list of classes:\n\n1. DigitalAccountFacet\n2. Facet\n3. DigitalAccountFacet\n4. AccountFacet\n5. ApplicationFacet\n6. Account\n7. DigitalAccount\n8. IdentityFacet"}
+{"Custom ID":"task-41","Response":"['DigitalAccountFacet', 'AccountFacet', 'Facet', 'Account', 'DigitalAccount', 'FileFacet', 'IdentityFacet', 'DigitalAddressFacet']"}
+{"Custom ID":"task-42","Response":"Here is the ranked list of classes that the user input belongs to:\n\n1. DiskPartitionFacet\n2. Facet\n3. FileSystemFacet\n4. FileSystemObject\n5. FileFacet\n6. DigitalAccountFacet\n7. AccountFacet\n8. DeviceFacet"}
+{"Custom ID":"task-43","Response":"Here is the ranked list of classes that the input belongs to:\n\n1. FileFacet\n2. File\n3. FileSystemFacet\n4. FileSystemObject\n5. DiskPartitionFacet\n6. DiskPartition\n7. PathRelationFacet\n8. URLHistoryFacet"}
+{"Custom ID":"task-44","Response":"['FileFacet', 'File', 'FileSystemFacet', 'FileSystemObject', 'Item', 'ObservableObject', 'Facet', 'File']"}
+{"Custom ID":"task-45","Response":"['EmailAccount', 'Account', 'DigitalAccount', 'AccountFacet', 'EmailAccountFacet', 'DigitalAccountFacet']"}
+{"Custom ID":"task-46","Response":"['EmailAccountFacet', 'EmailAccountFacet', 'AccountFacet', 'Facet', 'DigitalAccountFacet', 'Account', 'EmailAccount', 'AccountAuthenticationFacet']"}
+{"Custom ID":"task-47","Response":"['EmailAddress', 'Facet', 'DigitalAddressFacet', 'EmailAccountFacet', 'EmailAccount', 'IdentityAbstraction', 'IdentityFacet', 'SimpleNameFacet', 'EmailAccountFacet']"}
+{"Custom ID":"task-48","Response":"1. EmailAddressFacet\n2. DigitalAddressFacet\n3. EmailAddress\n4. Address\n5. DigitalAddress\n6. EmailAccountFacet\n7. EmailAccount\n8. IdentityAbstraction"}
+{"Custom ID":"task-49","Response":"['ExtInodeFacet', 'FileSystemFacet', 'Facet', 'FileSystemObject', 'File', 'Item', 'Observable', 'Object']"}
+{"Custom ID":"task-50","Response":"['ExtInodeFacet', 'Facet', 'FileSystemFacet', 'FileSystemObject', 'File']"}
+{"Custom ID":"task-51","Response":"['ExtInodeFacet', 'FileSystemFacet', 'Facet', 'FileFacet', 'FileSystemObject', 'FileSystem', 'File', 'Item']"}
+{"Custom ID":"task-52","Response":"['DigitalAccount', 'Account', 'DigitalAccountFacet', 'AccountFacet', 'MobileAccountFacet', 'AccountAuthenticationFacet', 'PhoneAccountFacet', 'EmailAccount', 'EmailAccountFacet']"}
+{"Custom ID":"task-53","Response":"['URL', 'URLHistory', 'URLHistoryFacet']"}
+{"Custom ID":"task-54","Response":"1. FileFacet\n2. Facet\n3. FileSystemFacet\n4. FileSystemObject\n5. File\n6. DiskPartitionFacet\n7. DiskPartition\n8. ConfigurationEntry"}
+{"Custom ID":"task-55","Response":"['FileFacet', 'FileSystemFacet', 'File', 'FileSystemObject', 'Facet', 'FileSystem']"}
+{"Custom ID":"task-56","Response":"Here is the ranked list of classes that the input belongs to:\n\n1. FileFacet\n2. Facet\n3. FileSystemFacet\n4. FileSystemObject\n5. File\n6. DigitalAccountFacet\n7. AccountFacet\n8. ConfigurationEntry"}
+{"Custom ID":"task-57","Response":"['FileFacet', 'FileSystemFacet', 'FileSystemObject', 'File']"}
+{"Custom ID":"task-58","Response":"['FileFacet', 'FileSystemFacet', 'FileSystemObject', 'File']"}
+{"Custom ID":"task-59","Response":"['FileFacet', 'FileSystemFacet', 'FileSystemObject', 'File']"}
+{"Custom ID":"task-60","Response":"['FileSystemFacet', 'FileSystem', 'FileFacet', 'Item', 'File', 'FileSystemObject', 'Facet', 'FileSystemObject']"}
+{"Custom ID":"task-61","Response":"['FileSystem', 'FileSystemObject', 'FileSystemFacet']"}
+{"Custom ID":"task-62","Response":"['FileSystem', 'FileSystemObject', 'FileSystemFacet', 'Relationship', 'PathRelationFacet', 'FileFacet', 'Item', 'ObservableRelationship']"}
+{"Custom ID":"task-63","Response":"['DigitalAccountFacet', 'FileFacet', 'AccountAuthenticationFacet', 'DigitalAddressFacet', 'DeviceFacet', 'Account', 'Configuration', 'Tool', 'DiskPartitionFacet']"}
+{"Custom ID":"task-64","Response":"['FileFacet', 'File', 'FileSystemFacet', 'FileSystemObject', 'DigitalAccountFacet', 'AccountFacet', 'Facet', 'FileSystem', 'UcoObject', 'Image']"}
+{"Custom ID":"task-65","Response":"['Hash', 'DigitalAddress', 'DigitalAddressFacet', 'Facet', 'ConfigurationEntry', 'Configuration', 'Tool', 'UcoObject']"}
+{"Custom ID":"task-66","Response":"['Hash', 'DigitalAddress', 'DigitalAddressFacet', 'Facet', 'ContentDataFacet', 'FileFacet', 'SimpleNameFacet', 'IdentityFacet']"}
+{"Custom ID":"task-67","Response":"['Hash', 'DigitalAddress', 'DigitalAddressFacet', 'Facet', 'ContentDataFacet', 'ConfigurationEntry', 'Tool']"}
+{"Custom ID":"task-68","Response":"['Hash', 'ContentDataFacet', 'DigitalAddressFacet', 'DigitalAddress', 'UcoInherentCharacterizationThing', 'UcoObject', 'Facet', 'DataRangeFacet']"}
+{"Custom ID":"task-69","Response":"['Hash', 'ConfigurationEntry', 'ContentDataFacet', 'Facet', 'DigitalAddressFacet', 'UcoObject', 'UcoInherentCharacterizationThing']"}
+{"Custom ID":"task-70","Response":"['Hash', 'DigitalAddress', 'DigitalAddressFacet', 'Facet', 'UcoObject', 'UcoThing', 'Device', 'DeviceFacet']"}
+{"Custom ID":"task-71","Response":"Here is the ranked list of classes:\n\n1. InvestigativeAction\n2. Investigation\n3. RecoveredObjectFacet\n4. DeviceFacet\n5. AccountAuthenticationFacet\n6. DiskPartitionFacet\n7. Tool\n8. UcoObject"}
+{"Custom ID":"task-72","Response":"['InvestigativeAction', 'Action', 'Item', 'Application', 'Tool', 'Configuration', 'UcoThing', 'Investigation']"}
+{"Custom ID":"task-73","Response":"['Person', 'Identity', 'IdentityAbstraction', 'IdentityFacet', 'DigitalAddress', 'DigitalAddressFacet', 'Account', 'AccountAuthenticationFacet', 'EmailAccount', 'EmailAccountFacet', 'PhoneAccount', 'PhoneAccountFacet', 'MobileAccount', 'MobileAccountFacet']"}
+{"Custom ID":"task-74","Response":"['URL', 'URLHistory', 'URLHistoryFacet']"}
+{"Custom ID":"task-75","Response":"['LatLongCoordinatesFacet', 'Facet', 'FileSystemFacet', 'FileFacet', 'ObservableObject', 'IdentityFacet', 'DigitalAccountFacet', 'URLFacet']"}
+{"Custom ID":"task-76","Response":"['LatLongCoordinatesFacet', 'Location', 'Address', 'Facet', 'FileSystemFacet', 'DeviceFacet', 'AccountAuthenticationFacet', 'DigitalAddressFacet', 'MobileAccountFacet']"}
+{"Custom ID":"task-77","Response":"['MobileDevice', 'Device', 'AndroidDeviceFacet', 'MobileDeviceFacet', 'DeviceFacet', 'PhoneAccountFacet', 'MobileAccountFacet', 'SIMCardFacet', 'MobileAccount']"}
+{"Custom ID":"task-78","Response":"['URL', 'FileFacet', 'DigitalAccountFacet', 'URLFacet', 'File', 'ObservableObject', 'Item', 'ApplicationFacet']"}
+{"Custom ID":"task-79","Response":"['Message', 'MessageFacet', 'SMSMessage']"}
+{"Custom ID":"task-80","Response":"['Message', 'ObservableRelationship', 'Relationship', 'MessageFacet', 'URLHistoryFacet', 'Action', 'MessageFacet']"}
+{"Custom ID":"task-81","Response":"Here is the ranked list of classes that the input belongs to:\n\n1. MessageFacet\n2. Facet\n3. URLHistoryFacet\n4. Message\n5. EmailAddressFacet\n6. IdentityFacet\n7. DigitalAccountFacet\n8. ApplicationFacet"}
+{"Custom ID":"task-82","Response":"['MessageFacet', 'Message', 'Facet', 'Action', 'Relationship', 'ObservableRelationship', 'MessageFacet', 'Observable', 'Item', 'Action']"}
+{"Custom ID":"task-83","Response":"['FileFacet', 'URLHistoryFacet', 'File', 'URLHistory', 'SMSMessage', 'MessageFacet', 'Message']"}
+{"Custom ID":"task-84","Response":"['MobileAccountFacet', 'PhoneAccountFacet', 'AccountFacet', 'DigitalAccountFacet', 'ApplicationAccountFacet', 'MobileAccount', 'PhoneAccount', 'Account', 'DigitalAccount']"}
+{"Custom ID":"task-85","Response":"['MobileDeviceFacet', 'MobileDevice', 'PhoneAccountFacet', 'DeviceFacet', 'Device', 'AndroidDeviceFacet', 'MobileDevice']"}
+{"Custom ID":"task-86","Response":"['MobileAccount', 'PhoneAccount', 'Account', 'DigitalAccount', 'ApplicationAccountFacet', 'PhoneAccountFacet', 'MobileDeviceFacet']"}
+{"Custom ID":"task-87","Response":"['OperatingSystemFacet', 'Facet', 'FileSystemFacet', 'DeviceFacet', 'AccountAuthenticationFacet', 'ConfigurationEntry', 'Device', 'UcoThing', 'Tool']"}
+{"Custom ID":"task-88","Response":"['Organization', 'Identity', 'IdentityAbstraction']"}
+{"Custom ID":"task-89","Response":"['EmailAccount', 'IdentityFacet', 'EmailAccountFacet', 'Person', 'Identity', 'Account', 'EmailAccountFacet', 'IdentityAbstraction', 'AccountAuthenticationFacet']"}
+{"Custom ID":"task-90","Response":"['Identity', 'Person', 'Organization']"}
+{"Custom ID":"task-91","Response":"['EmailAccount', 'EmailAccountFacet', 'Account', 'AccountFacet', 'IdentityAbstraction', 'IdentityFacet', 'DigitalAccount', 'DigitalAccountFacet', 'AccountAuthenticationFacet', 'PhoneAccount', 'PhoneAccountFacet', 'MobileAccount', 'MobileAccountFacet']"}
+{"Custom ID":"task-92","Response":"['DigitalAccountFacet', 'ApplicationFacet', 'ApplicationAccountFacet', 'MobileAccountFacet', 'PhoneAccountFacet', 'EmailAccountFacet', 'AccountFacet', 'AccountAuthenticationFacet', 'DigitalAddressFacet', 'MobileAccount']"}
+{"Custom ID":"task-93","Response":"['EmailAccount', 'Account', 'DigitalAccount', 'ApplicationAccountFacet', 'EmailAccountFacet', 'Application', 'AccountFacet', 'Email']"}
+{"Custom ID":"task-94","Response":"Here is the ranked list of classes:\n\n1. DiskPartition\n2. DiskPartitionFacet\n3. FileSystemFacet\n4. FileSystemObject\n5. FileSystem\n6. Partition\n7. DataRangeFacet\n8. ConfigurationEntry"}
+{"Custom ID":"task-95","Response":"['PathRelationFacet', 'FileFacet', 'Facet', 'FileSystemFacet', 'FileSystemObject', 'FileSystem']"}
+{"Custom ID":"task-96","Response":"1. PhoneAccountFacet\n2. AccountFacet\n3. Facet\n4. DigitalAccountFacet\n5. MobileAccountFacet\n6. AccountAuthenticationFacet\n7. DeviceFacet\n8. MobileDeviceFacet"}
+{"Custom ID":"task-97","Response":"Here is the ranked list of classes that the input belongs to:\n\n1. PhoneAccountFacet\n2. AccountFacet\n3. Facet\n4. MobileDeviceFacet\n5. DeviceFacet\n6. AccountAuthenticationFacet\n7. MobileAccountFacet\n8. DigitalAccountFacet"}
+{"Custom ID":"task-98","Response":"['PhoneAccount', 'MobileAccount', 'Account', 'DeviceFacet', 'MobileDeviceFacet', 'PhoneAccountFacet', 'AccountFacet', 'DigitalAccount', 'AccountAuthenticationFacet']"}
+{"Custom ID":"task-99","Response":"['Identity', 'Person', 'Account', 'DigitalAccount', 'MobileAccount']"}
+{"Custom ID":"task-100","Response":"['EmailAccount', 'EmailAddress', 'EmailAccountFacet', 'DigitalAddressFacet', 'AccountAuthenticationFacet', 'Account', 'IdentityAbstraction', 'IdentityFacet', 'Person']"}
+{"Custom ID":"task-101","Response":"Here is the ranked list of classes that the input belongs to:\n\n1. DigitalAddress\n2. EmailAddress\n3. DigitalAccountFacet\n4. IdentityFacet\n5. EmailAccountFacet\n6. AccountFacet\n7. Person\n8. Identity"}
+{"Custom ID":"task-102","Response":"['ProvenanceRecord', 'FileFacet', 'IdentityFacet', 'DigitalAccountFacet', 'URLFacet', 'SimpleNameFacet', 'AccountFacet', 'Facet', 'ProvenanceRecord', 'Observable', 'ObservableRelationship']"}
+{"Custom ID":"task-103","Response":"['ProvenanceRecord', 'FileFacet', 'IdentityFacet', 'DigitalAccountFacet', 'URLFacet', 'SimpleNameFacet', 'AccountFacet', 'Facet', 'UcoInherentCharacterizationThing']"}
+{"Custom ID":"task-104","Response":"['RecoveredObjectFacet', 'Facet', 'FileSystemFacet', 'ObservableRelationship', 'Relationship', 'FileFacet', 'Item', 'Observable', 'AccountFacet', 'FileSystemObject', 'FileSystem', 'UcoInherentCharacterizationThing', 'UcoObject']"}
+{"Custom ID":"task-105","Response":"['ObservableRelationship', 'Relationship', 'PathRelationFacet', 'TableRelationFacet', 'Item', 'Observable', 'ObservableObject', 'Relationship']"}
+{"Custom ID":"task-106","Response":"['URLHistory', 'URLHistoryFacet', 'PathRelationFacet', 'Relationship', 'TableRelationFacet', 'ObservableRelationship', 'Item']"}
+{"Custom ID":"task-107","Response":"['SIMCardFacet', 'SIMCard', 'MobileDeviceFacet', 'MobileDevice', 'PhoneAccountFacet', 'PhoneAccount', 'DeviceFacet', 'Device', 'AccountFacet', 'Account']"}
+{"Custom ID":"task-108","Response":"['MobileAccountFacet', 'PhoneAccountFacet', 'SIMCardFacet', 'MobileDeviceFacet', 'AccountFacet', 'SIMCard', 'MobileAccount', 'PhoneAccount', 'Device', 'Account']"}
+{"Custom ID":"task-109","Response":"['SIMCard', 'MobileAccountFacet', 'SIMCardFacet', 'MobileDeviceFacet', 'DeviceFacet', 'AccountFacet', 'AccountAuthenticationFacet', 'MobileAccount', 'PhoneAccountFacet']"}
+{"Custom ID":"task-110","Response":"['SIMCard', 'ObservableObject', 'Item', 'MobileDevice', 'Account', 'Relationship', 'ObservableRelationship']"}
+{"Custom ID":"task-111","Response":"['SimpleNameFacet', 'Facet', 'FileFacet', 'IdentityFacet', 'DigitalAccountFacet', 'URLFacet', 'ApplicationFacet', 'PhoneAccountFacet', 'FileSystemFacet', 'SIMCardFacet']"}
+{"Custom ID":"task-112","Response":"Here is the ranked list of classes:\n\n1. SimpleNameFacet\n2. Facet\n3. FileFacet\n4. IdentityFacet\n5. DigitalAccountFacet\n6. URLFacet\n7. ApplicationFacet\n8. PhoneAccountFacet"}
+{"Custom ID":"task-113","Response":"['DigitalAddress', 'DigitalAccount', 'MobileAccount', 'PhoneAccount', 'Account', 'Identity', 'SIMCard', 'MobileDevice']"}
+{"Custom ID":"task-114","Response":"['DigitalAccount', 'ApplicationFacet', 'MobileAccountFacet', 'Application', 'DigitalAccountFacet', 'MobileAccount', 'Account', 'ApplicationAccountFacet']"}
+{"Custom ID":"task-115","Response":"['EmailAccountFacet', 'MessageFacet', 'EmailAccount', 'AccountFacet', 'AccountAuthenticationFacet', 'Email', 'DigitalAddressFacet', 'IdentityAbstraction']"}
+{"Custom ID":"task-116","Response":"['SMSMessage', 'Message', 'MessageFacet', 'Item', 'Action']"}
+{"Custom ID":"task-117","Response":"['DigitalAccountFacet', 'ApplicationFacet', 'ConfigurationEntry', 'Tool', 'Application', 'Software', 'Configuration', 'AccountAuthenticationFacet']"}
+{"Custom ID":"task-118","Response":"Here is the ranked list of classes:\n\n1. TableRelationFacet\n2. Facet\n3. FileSystemFacet\n4. DataRangeFacet\n5. URLHistoryFacet\n6. IdentityFacet\n7. ApplicationFacet\n8. DigitalAccountFacet"}
+{"Custom ID":"task-119","Response":"Here is the ranked list of classes that the input belongs to:\n\n1. TableRelationFacet\n2. Facet\n3. FileFacet\n4. IdentityFacet\n5. URLFacet\n6. ApplicationFacet\n7. DeviceFacet\n8. DigitalAccountFacet"}
+{"Custom ID":"task-120","Response":"Here is the ranked list of classes:\n\n1. TableRelationFacet\n2. Facet\n3. FileSystemFacet\n4. DataRangeFacet\n5. URLHistoryFacet\n6. DigitalAddressFacet\n7. MACAddressFacet\n8. WifiAddressFacet"}
+{"Custom ID":"task-121","Response":"['SIMCard', 'PhoneAccount', 'MobileAccount', 'MobileDevice', 'Device', 'Account', 'PhoneAccountFacet', 'MobileAccountFacet', 'DeviceFacet']"}
+{"Custom ID":"task-122","Response":"['URL', 'URLHistoryFacet', 'URLHistory', 'URLFacet']"}
+{"Custom ID":"task-123","Response":"['MobileAccountFacet', 'ApplicationFacet', 'URLHistoryFacet', 'FileFacet', 'IdentityFacet', 'AccountFacet', 'Application', 'MobileAccount']"}
+{"Custom ID":"task-124","Response":"['URL', 'URLFacet', 'URLHistoryFacet', 'URLHistory', 'URLHistoryEntry']"}
+{"Custom ID":"task-125","Response":"['URLFacet', 'URLHistoryFacet', 'URLHistoryFacet', 'URLHistory', 'URLHistoryEntry', 'FileFacet', 'SimpleNameFacet', 'URL', 'PathRelationFacet', 'FileSystemFacet']"}
+{"Custom ID":"task-126","Response":"['URLHistory', 'URLHistoryFacet', 'URL', 'FileFacet', 'Facet', 'ContentDataFacet']"}
+{"Custom ID":"task-127","Response":"['URLHistoryEntry', 'URLHistoryFacet', 'URL', 'Facet', 'FileFacet', 'DigitalAccountFacet', 'AccountFacet', 'FileSystemFacet']"}
+{"Custom ID":"task-128","Response":"['URLHistoryFacet', 'Facet', 'URLHistory', 'DataRangeFacet', 'URLHistoryFacet', 'Item', 'FileFacet', 'URLFacet']"}
+{"Custom ID":"task-129","Response":"['DiskPartition', 'FileFacet', 'FileSystemFacet', 'FileSystem', 'DeviceFacet', 'DiskPartitionFacet']"}
+{"Custom ID":"task-130","Response":"Here is the ranked list of classes:\n\n1. BluetoothAddressFacet\n2. WifiAddressFacet\n3. MACAddressFacet\n4. DigitalAddressFacet\n5. EmailAddressFacet\n6. IdentityFacet\n7. SimpleNameFacet\n8. URLFacet"}

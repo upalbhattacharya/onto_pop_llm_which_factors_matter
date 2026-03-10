@@ -1,0 +1,15 @@
+{
+    "input": "/home/upal/Data/ontologies/astronomy-ontology/data/onto_pop/ranked_retrieval/2024-11-04/onto_pop_ranked_retrieval_dataset.json",
+    "output_dir": "/home/upal/Results/onto_pop_llm_which_factors_matter/onto_pop/ranked_retrieval/astronomy-ontology/gpt-4o",
+    "ontology_probe_type": "onto_pop",
+    "prompt_strategy_type": "zero_shot",
+    "task_type": "ranked_retrieval",
+    "llm_name": "gpt-4o",
+    "max_tokens": 500,
+    "system_message": "You are a helpful assistant that responds with a ranked list of classes that a user input belongs to. Generate a list of the top {depth} most likely classes. Do not generate a list of less than {depth} classes.\nCreate the ranked list considering only the provided classes\n---\nClasses: {classes}",
+    "user_prompt_template": "{}",
+    "description": "Zero-Shot, Generic Prompt, No pre-qualification Class Assertion Ranked Retrieval on Astronomy Ontology",
+    "kwargs": {
+        "depth": 10
+    }
+}

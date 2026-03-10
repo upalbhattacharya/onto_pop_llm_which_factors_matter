@@ -1,0 +1,156 @@
+{"Individual":"AlsaceRegion","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"AnjouRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Anjou<|eot_id|>","Prediction":["Region","Anjou"]}
+{"Individual":"ArroyoGrandeRegion","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"AustralianRegion","Response":"<|begin_of_text|>\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"Bancroft","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes for the input \"Bancroft\":\n\n1. Winery<|eot_id|>","Prediction":["Winery"]}
+{"Individual":"BancroftChardonnay","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Wine\n2. Chardonnay\n3. WineGrape\n4. WhiteWine<|eot_id|>","Prediction":["Wine","Chardonnay","WineGrape","WhiteWine"]}
+{"Individual":"BeaujolaisRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Bordeaux<|eot_id|>","Prediction":["Region","Bordeaux"]}
+{"Individual":"Beringer","Response":"<|begin_of_text|>\n\n1. Winery\n2. Wine<|eot_id|>","Prediction":["Winery","Wine"]}
+{"Individual":"BordeauxRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Bordeaux<|eot_id|>","Prediction":["Region","Bordeaux"]}
+{"Individual":"BourgogneRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Bordeaux<|eot_id|>","Prediction":["Region","Bordeaux"]}
+{"Individual":"CabernetFrancGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"CabernetSauvignonGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"CaliforniaRegion","Response":"<|begin_of_text|>\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"CentralCoastRegion","Response":"<|begin_of_text|>\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"CentralTexasRegion","Response":"<|begin_of_text|>\n\nHere are the top 4 most likely classes:\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"ChardonnayGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"ChateauChevalBlanc","Response":"<|begin_of_text|>\n\n1. Bordeaux\n2. Wine\n3. RedWine\n4. Pauillac<|eot_id|>","Prediction":["Bordeaux","Wine","RedWine","Pauillac"]}
+{"Individual":"ChateauChevalBlancStEmilion","Response":"<|begin_of_text|>\n\n1. Pauillac\n2. Bordeaux\n3. RedWine\n4. Wine<|eot_id|>","Prediction":["Pauillac","Bordeaux","RedWine","Wine"]}
+{"Individual":"ChateauDYchem","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Winery\n2. Bordeaux\n3. Wine\n4. WineBody<|eot_id|>","Prediction":["Winery","Bordeaux","Wine","WineBody"]}
+{"Individual":"ChateauDYchemSauterne","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Wine\n2. DessertWine\n3. Sauternes\n4. Bordeaux<|eot_id|>","Prediction":["Wine","DessertWine","Sauternes","Bordeaux"]}
+{"Individual":"ChateauDeMeursault","Response":"<|begin_of_text|>\n\n1. Wine\n2. RedWine\n3. Chardonnay\n4. WhiteWine<|eot_id|>","Prediction":["Wine","RedWine","Chardonnay","WhiteWine"]}
+{"Individual":"ChateauDeMeursaultMeursault","Response":"<|begin_of_text|>\n\n1. Meursault\n2. WhiteBurgundy\n3. Wine\n4. Bordeaux<|eot_id|>","Prediction":["Meursault","WhiteBurgundy","Wine","Bordeaux"]}
+{"Individual":"ChateauLafiteRothschild","Response":"<|begin_of_text|>\n\n1. Bordeaux\n2. Wine\n3. Pauillac\n4. RedWine<|eot_id|>","Prediction":["Bordeaux","Wine","Pauillac","RedWine"]}
+{"Individual":"ChateauLafiteRothschildPauillac","Response":"<|begin_of_text|>\n\n1. Pauillac\n2. Bordeaux\n3. Wine\n4. RedWine<|eot_id|>","Prediction":["Pauillac","Bordeaux","Wine","RedWine"]}
+{"Individual":"ChateauMargaux","Response":"<|begin_of_text|>\n\n1. Pauillac\n2. Bordeaux\n3. Wine\n4. Meritage<|eot_id|>","Prediction":["Pauillac","Bordeaux","Wine","Meritage"]}
+{"Individual":"ChateauMargauxWinery","Response":"<|begin_of_text|>\n\n1. Winery\n2. Wine\n3. Bordeaux\n4. Chateau<|eot_id|>","Prediction":["Winery","Wine","Bordeaux","Chateau"]}
+{"Individual":"ChateauMorgon","Response":"<|begin_of_text|>\n\n1. Wine\n2. RedWine\n3. Beaujolais<|eot_id|>","Prediction":["Wine","RedWine","Beaujolais"]}
+{"Individual":"ChateauMorgonBeaujolais","Response":"<|begin_of_text|>\n\n1. Beaujolais\n2. Wine\n3. RedWine\n4. FrenchWine<|eot_id|>","Prediction":["Beaujolais","Wine","RedWine","FrenchWine"]}
+{"Individual":"CheninBlancGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"ChiantiClassico","Response":"<|begin_of_text|>\n\n1. Chianti\n2. ItalianWine\n3. RedWine\n4. Wine<|eot_id|>","Prediction":["Chianti","ItalianWine","RedWine","Wine"]}
+{"Individual":"ChiantiRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Chianti<|eot_id|>","Prediction":["Region","Chianti"]}
+{"Individual":"ClosDeLaPoussie","Response":"<|begin_of_text|>\n\n1. Pauillac\n2. Bordeaux\n3. RedWine\n4. Wine<|eot_id|>","Prediction":["Pauillac","Bordeaux","RedWine","Wine"]}
+{"Individual":"ClosDeLaPoussieSancerre","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that ClosDeLaPoussieSancerre belongs to:\n\n1. Wine\n2. Sancerre\n3. WhiteWine<|eot_id|>","Prediction":["Wine","Sancerre","WhiteWine"]}
+{"Individual":"ClosDeVougeot","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes for the input \"ClosDeVougeot\":\n\n1. CotesDOr\n2. Wine\n3. Bordeaux\n4. RedWine<|eot_id|>","Prediction":["CotesDOr","Wine","Bordeaux","RedWine"]}
+{"Individual":"ClosDeVougeotCotesDOr","Response":"<|begin_of_text|>\n\n1. CotesDOr\n2. Wine\n3. Bordeaux\n4. WineRegion<|eot_id|>","Prediction":["CotesDOr","Wine","Bordeaux","WineRegion"]}
+{"Individual":"CongressSprings","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Winery\n2. Region<|eot_id|>","Prediction":["Winery","Region"]}
+{"Individual":"CongressSpringsSemillon","Response":"<|begin_of_text|>\n\n1. Semillon\n2. WineGrape\n3. Grape\n4. Wine<|eot_id|>","Prediction":["Semillon","WineGrape","Grape","Wine"]}
+{"Individual":"Corbans","Response":"<|begin_of_text|>\n\n1. Wine\n2. Bordeaux\n3. RedWine\n4. Merlot<|eot_id|>","Prediction":["Wine","Bordeaux","RedWine","Merlot"]}
+{"Individual":"CorbansDryWhiteRiesling","Response":"<|begin_of_text|>\n\n1. WhiteWine\n2. Wine\n3. Riesling\n4. DryRiesling<|eot_id|>","Prediction":["WhiteWine","Wine","Riesling","DryRiesling"]}
+{"Individual":"CorbansPrivateBinSauvignonBlanc","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Wine\n2. WhiteWine\n3. SauvignonBlanc\n4. WineGrape<|eot_id|>","Prediction":["Wine","WhiteWine","SauvignonBlanc","WineGrape"]}
+{"Individual":"CorbansSauvignonBlanc","Response":"<|begin_of_text|>\n\n1. Wine\n2. SauvignonBlanc\n3. WhiteWine\n4. WineGrape<|eot_id|>","Prediction":["Wine","SauvignonBlanc","WhiteWine","WineGrape"]}
+{"Individual":"CortonMontrachet","Response":"<|begin_of_text|>\n\n1. WhiteBurgundy\n2. Wine<|eot_id|>","Prediction":["WhiteBurgundy","Wine"]}
+{"Individual":"CortonMontrachetWhiteBurgundy","Response":"<|begin_of_text|>\n\n1. WhiteWine\n2. Wine\n3. WhiteBurgundy\n4. Chardonnay<|eot_id|>","Prediction":["WhiteWine","Wine","WhiteBurgundy","Chardonnay"]}
+{"Individual":"CotesDOrRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. CotesDOr<|eot_id|>","Prediction":["Region","CotesDOr"]}
+{"Individual":"Cotturi","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Wine\n2. Merlot\n3. WineGrape\n4. Grape<|eot_id|>","Prediction":["Wine","Merlot","WineGrape","Grape"]}
+{"Individual":"CotturiZinfandel","Response":"<|begin_of_text|>\n\n1. Zinfandel\n2. Wine\n3. RedWine\n4. WineGrape<|eot_id|>","Prediction":["Zinfandel","Wine","RedWine","WineGrape"]}
+{"Individual":"DAnjou","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input \"DAnjou\" belongs to:\n\n1. Anjou\n2. Region<|eot_id|>","Prediction":["Anjou","Region"]}
+{"Individual":"Delicate","Response":"<|begin_of_text|>\n\n1. WineFlavor\n2. WineTaste\n3. WineDescriptor<|eot_id|>","Prediction":["WineFlavor","WineTaste","WineDescriptor"]}
+{"Individual":"Dry","Response":"<|begin_of_text|>\n\n1. WineSugar\n2. DryRiesling<|eot_id|>","Prediction":["WineSugar","DryRiesling"]}
+{"Individual":"EdnaValleyRegion","Response":"<|begin_of_text|>\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"Elyse","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes for the input \"Elyse\":\n\n1. Winery<|eot_id|>","Prediction":["Winery"]}
+{"Individual":"ElyseZinfandel","Response":"<|begin_of_text|>\n\n1. Zinfandel\n2. Wine\n3. RedWine\n4. WineGrape<|eot_id|>","Prediction":["Zinfandel","Wine","RedWine","WineGrape"]}
+{"Individual":"Forman","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that Forman belongs to:\n\n1. Wine\n2. Meritage\n3. RedWine\n4. Bordeaux<|eot_id|>","Prediction":["Wine","Meritage","RedWine","Bordeaux"]}
+{"Individual":"FormanCabernetSauvignon","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Wine\n2. RedWine\n3. CabernetSauvignon\n4. Grape<|eot_id|>","Prediction":["Wine","RedWine","CabernetSauvignon","Grape"]}
+{"Individual":"FormanChardonnay","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Chardonnay\n2. Wine\n3. WhiteWine\n4. WineGrape<|eot_id|>","Prediction":["Chardonnay","Wine","WhiteWine","WineGrape"]}
+{"Individual":"FoxenCheninBlanc","Response":"<|begin_of_text|>\n\n1. Wine\n2. Grape\n3. Chardonnay<|eot_id|>","Prediction":["Wine","Grape","Chardonnay"]}
+{"Individual":"FrenchRegion","Response":"<|begin_of_text|>\n\n1. Bordeaux\n2. Region<|eot_id|>","Prediction":["Bordeaux","Region"]}
+{"Individual":"Full","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input \"Full\" belongs to:\n\n1. WineBody\n2. WineFlavor\n3. WineTaste\n4. WineDescriptor<|eot_id|>","Prediction":["WineBody","WineFlavor","WineTaste","WineDescriptor"]}
+{"Individual":"GamayGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"GaryFarrell","Response":"<|begin_of_text|>\n\n1. Winery<|eot_id|>","Prediction":["Winery"]}
+{"Individual":"GaryFarrellMerlot","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Merlot\n2. Wine\n3. Grape\n4. WineGrape<|eot_id|>","Prediction":["Merlot","Wine","Grape","WineGrape"]}
+{"Individual":"Handley","Response":"<|begin_of_text|>\n\n1. Wine\n2. RedWine<|eot_id|>","Prediction":["Wine","RedWine"]}
+{"Individual":"ItalianRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. ItalianWine<|eot_id|>","Prediction":["Region","ItalianWine"]}
+{"Individual":"KalinCellars","Response":"<|begin_of_text|>\n\n1. Winery\n2. Wine\n3. WineDescriptor\n4. PotableLiquid<|eot_id|>","Prediction":["Winery","Wine","WineDescriptor","PotableLiquid"]}
+{"Individual":"KalinCellarsSemillon","Response":"<|begin_of_text|>\n\n1. Wine\n2. Semillon\n3. WineGrape\n4. WineDescriptor<|eot_id|>","Prediction":["Wine","Semillon","WineGrape","WineDescriptor"]}
+{"Individual":"KathrynKennedy","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that Kathryn Kennedy belongs to:\n\n1. Winery<|eot_id|>","Prediction":["Winery"]}
+{"Individual":"KathrynKennedyLateral","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes for the input \"KathrynKennedyLateral\":\n\n1. Wine\n2. WineRegion\n3. Bordeaux\n4. RedWine<|eot_id|>","Prediction":["Wine","WineRegion","Bordeaux","RedWine"]}
+{"Individual":"LaneTanner","Response":"<|begin_of_text|>\n\n1. Winery<|eot_id|>","Prediction":["Winery"]}
+{"Individual":"LaneTannerPinotNoir","Response":"<|begin_of_text|>\n\n1. PinotNoir\n2. Wine\n3. WineGrape\n4. RedWine<|eot_id|>","Prediction":["PinotNoir","Wine","WineGrape","RedWine"]}
+{"Individual":"Light","Response":"<|begin_of_text|>\n\n1. WineFlavor\n2. WineTaste\n3. WineDescriptor<|eot_id|>","Prediction":["WineFlavor","WineTaste","WineDescriptor"]}
+{"Individual":"LoireRegion","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Region\n2. Bordeaux<|eot_id|>","Prediction":["Region","Bordeaux"]}
+{"Individual":"Longridge","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Winery\n2. Wine\n3. WineGrape\n4. Region<|eot_id|>","Prediction":["Winery","Wine","WineGrape","Region"]}
+{"Individual":"LongridgeMerlot","Response":"<|begin_of_text|>\n\n1. Merlot\n2. RedWine\n3. Wine\n4. Grape<|eot_id|>","Prediction":["Merlot","RedWine","Wine","Grape"]}
+{"Individual":"MalbecGrape","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"MargauxRegion","Response":"<|begin_of_text|>\n\n1. Bordeaux\n2. Region<|eot_id|>","Prediction":["Bordeaux","Region"]}
+{"Individual":"Marietta","Response":"<|begin_of_text|>\n\n1. Wine\n2. Meritage\n3. RedWine\n4. WineDescriptor<|eot_id|>","Prediction":["Wine","Meritage","RedWine","WineDescriptor"]}
+{"Individual":"MariettaCabernetSauvignon","Response":"<|begin_of_text|>\n\n1. CabernetSauvignon\n2. Wine\n3. RedWine<|eot_id|>","Prediction":["CabernetSauvignon","Wine","RedWine"]}
+{"Individual":"MariettaOldVinesRed","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. RedWine\n2. Wine\n3. Meritage\n4. Zinfandel<|eot_id|>","Prediction":["RedWine","Wine","Meritage","Zinfandel"]}
+{"Individual":"MariettaPetiteSyrah","Response":"<|begin_of_text|>\n\n1. PetiteSyrah\n2. Wine\n3. Grape\n4. RedWine<|eot_id|>","Prediction":["PetiteSyrah","Wine","Grape","RedWine"]}
+{"Individual":"MariettaZinfandel","Response":"<|begin_of_text|>\n\n1. Zinfandel\n2. Wine\n3. RedWine\n4. WineGrape<|eot_id|>","Prediction":["Zinfandel","Wine","RedWine","WineGrape"]}
+{"Individual":"McGuinnesso","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that McGuinnesso belongs to:\n\n1. Wine\n2. RedWine\n3. Meritage\n4. WineDescriptor<|eot_id|>","Prediction":["Wine","RedWine","Meritage","WineDescriptor"]}
+{"Individual":"Medium","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes for the input \"Medium\":\n\n1. WineBody<|eot_id|>","Prediction":["WineBody"]}
+{"Individual":"MedocRegion","Response":"<|begin_of_text|>\n\n1. Bordeaux\n2. Region<|eot_id|>","Prediction":["Bordeaux","Region"]}
+{"Individual":"MendocinoRegion","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that MendocinoRegion belongs to:\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"MeursaultRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. CotesDOr<|eot_id|>","Prediction":["Region","CotesDOr"]}
+{"Individual":"Moderate","Response":"<|begin_of_text|>\n\n1. WineFlavor\n2. WineTaste\n3. WineDescriptor<|eot_id|>","Prediction":["WineFlavor","WineTaste","WineDescriptor"]}
+{"Individual":"MountEdenVineyard","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that MountEdenVineyard belongs to:\n\n1. Winery\n2. Wine\n3. Region<|eot_id|>","Prediction":["Winery","Wine","Region"]}
+{"Individual":"MountEdenVineyardEdnaValleyChardonnay","Response":"<|begin_of_text|>\n\n1. Chardonnay\n2. Wine\n3. WhiteWine\n4. WineGrape<|eot_id|>","Prediction":["Chardonnay","Wine","WhiteWine","WineGrape"]}
+{"Individual":"MountEdenVineyardEstatePinotNoir","Response":"<|begin_of_text|>\n\n1. Wine\n2. PinotNoir\n3. WineGrape\n4. Winery<|eot_id|>","Prediction":["Wine","PinotNoir","WineGrape","Winery"]}
+{"Individual":"Mountadam","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes for the input \"Mountadam\":\n\n1. Wine\n2. WineGrape<|eot_id|>","Prediction":["Wine","WineGrape"]}
+{"Individual":"MountadamChardonnay","Response":"<|begin_of_text|>\n\n1. Wine\n2. Chardonnay\n3. WhiteWine\n4. WineGrape<|eot_id|>","Prediction":["Wine","Chardonnay","WhiteWine","WineGrape"]}
+{"Individual":"MountadamPinotNoir","Response":"<|begin_of_text|>\n\n1. PinotNoir\n2. Wine\n3. WineGrape\n4. RedWine<|eot_id|>","Prediction":["PinotNoir","Wine","WineGrape","RedWine"]}
+{"Individual":"MountadamRiesling","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Riesling\n2. Wine\n3. WineGrape\n4. WhiteWine<|eot_id|>","Prediction":["Riesling","Wine","WineGrape","WhiteWine"]}
+{"Individual":"MuscadetRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Muscadet<|eot_id|>","Prediction":["Region","Muscadet"]}
+{"Individual":"NapaRegion","Response":"<|begin_of_text|>\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"NewZealandRegion","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"OffDry","Response":"<|begin_of_text|>\n\n1. WineSugar\n2. DryRiesling<|eot_id|>","Prediction":["WineSugar","DryRiesling"]}
+{"Individual":"PageMillWinery","Response":"<|begin_of_text|>\n\n1. Winery<|eot_id|>","Prediction":["Winery"]}
+{"Individual":"PageMillWineryCabernetSauvignon","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the user input belongs to:\n\n1. Wine\n2. RedWine\n3. WineGrape\n4. CabernetSauvignon<|eot_id|>","Prediction":["Wine","RedWine","WineGrape","CabernetSauvignon"]}
+{"Individual":"PauillacRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Bordeaux<|eot_id|>","Prediction":["Region","Bordeaux"]}
+{"Individual":"PeterMccoy","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that PeterMccoy belongs to:\n\n1. Winery\n2. Wine<|eot_id|>","Prediction":["Winery","Wine"]}
+{"Individual":"PeterMccoyChardonnay","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Wine\n2. Chardonnay\n3. WineDescriptor\n4. PotableLiquid<|eot_id|>","Prediction":["Wine","Chardonnay","WineDescriptor","PotableLiquid"]}
+{"Individual":"PetiteSyrahGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"PetiteVerdotGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"PinotBlancGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"PinotNoirGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"PortugalRegion","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"PulignyMontrachet","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. WhiteWine\n2. Wine\n3. Chardonnay\n4. WineGrape<|eot_id|>","Prediction":["WhiteWine","Wine","Chardonnay","WineGrape"]}
+{"Individual":"PulignyMontrachetWhiteBurgundy","Response":"<|begin_of_text|>\n\n1. WhiteBurgundy\n2. Wine\n3. WineDescriptor\n4. Wine<|eot_id|>","Prediction":["WhiteBurgundy","Wine","WineDescriptor","Wine"]}
+{"Individual":"Red","Response":"<|begin_of_text|>\n\n1. RedWine\n2. Wine\n3. WineColor\n4. WineGrape<|eot_id|>","Prediction":["RedWine","Wine","WineColor","WineGrape"]}
+{"Individual":"RieslingGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"Rose","Response":"<|begin_of_text|>\n\n1. WineColor\n2. Wine<|eot_id|>","Prediction":["WineColor","Wine"]}
+{"Individual":"RoseDAnjou","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Wine\n2. WineColor\n3. RedWine\n4. Anjou<|eot_id|>","Prediction":["Wine","WineColor","RedWine","Anjou"]}
+{"Individual":"SancerreRegion","Response":"<|begin_of_text|>\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"SantaBarbaraRegion","Response":"<|begin_of_text|>\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"SantaCruzMountainVineyard","Response":"<|begin_of_text|>\n\n1. Winery\n2. Wine\n3. WineRegion\n4. Region<|eot_id|>","Prediction":["Winery","Wine","WineRegion","Region"]}
+{"Individual":"SantaCruzMountainVineyardCabernetSauvignon","Response":"<|begin_of_text|>\n\n1. RedWine\n2. CabernetSauvignon\n3. Wine\n4. WineGrape<|eot_id|>","Prediction":["RedWine","CabernetSauvignon","Wine","WineGrape"]}
+{"Individual":"SantaCruzMountainsRegion","Response":"<|begin_of_text|>\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"SaucelitoCanyon","Response":"<|begin_of_text|>\n\n1. Wine\n2. WineGrape\n3. Region<|eot_id|>","Prediction":["Wine","WineGrape","Region"]}
+{"Individual":"SaucelitoCanyonZinfandel","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the user input belongs to:\n\n1. Zinfandel\n2. Wine\n3. RedWine\n4. WineGrape<|eot_id|>","Prediction":["Zinfandel","Wine","RedWine","WineGrape"]}
+{"Individual":"SaucelitoCanyonZinfandel1998","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the user input belongs to:\n\n1. Wine\n2. Zinfandel\n3. RedWine\n4. WineGrape<|eot_id|>","Prediction":["Wine","Zinfandel","RedWine","WineGrape"]}
+{"Individual":"SauterneRegion","Response":"<|begin_of_text|>\n\n1. Bordeaux\n2. Region<|eot_id|>","Prediction":["Bordeaux","Region"]}
+{"Individual":"SauvignonBlancGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"SchlossRothermel","Response":"<|begin_of_text|>\n\n1. Wine\n2. WineDescriptor\n3. Winery\n4. PotableLiquid<|eot_id|>","Prediction":["Wine","WineDescriptor","Winery","PotableLiquid"]}
+{"Individual":"SchlossRothermelTrochenbierenausleseRiesling","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Wine\n2. Riesling\n3. DessertWine\n4. IceWine<|eot_id|>","Prediction":["Wine","Riesling","DessertWine","IceWine"]}
+{"Individual":"SchlossVolrad","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Wine\n2. Winery<|eot_id|>","Prediction":["Wine","Winery"]}
+{"Individual":"SchlossVolradTrochenbierenausleseRiesling","Response":"<|begin_of_text|>\n\n1. IceWine\n2. Riesling\n3. Wine\n4. DessertWine<|eot_id|>","Prediction":["IceWine","Riesling","Wine","DessertWine"]}
+{"Individual":"SeanThackrey","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Winery\n2. Wine\n3. WineGrape\n4. Region<|eot_id|>","Prediction":["Winery","Wine","WineGrape","Region"]}
+{"Individual":"SeanThackreySiriusPetiteSyrah","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that SeanThackreySiriusPetiteSyrah belongs to:\n\n1. Wine\n2. RedWine\n3. PetiteSyrah\n4. WineGrape<|eot_id|>","Prediction":["Wine","RedWine","PetiteSyrah","WineGrape"]}
+{"Individual":"Selaks","Response":"<|begin_of_text|>\n\n1. Wine\n2. RedWine\n3. Merlot\n4. WineGrape<|eot_id|>","Prediction":["Wine","RedWine","Merlot","WineGrape"]}
+{"Individual":"SelaksIceWine","Response":"<|begin_of_text|>\n\n1. IceWine\n2. Wine\n3. DessertWine\n4. WineDescriptor<|eot_id|>","Prediction":["IceWine","Wine","DessertWine","WineDescriptor"]}
+{"Individual":"SelaksSauvignonBlanc","Response":"<|begin_of_text|>\n\n1. WhiteWine\n2. Wine\n3. WineGrape\n4. Grape<|eot_id|>","Prediction":["WhiteWine","Wine","WineGrape","Grape"]}
+{"Individual":"SemillonGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"SevreEtMaine","Response":"<|begin_of_text|>\n\n1. Wine\n2. WineRegion\n3. Bordeaux\n4. PotableLiquid<|eot_id|>","Prediction":["Wine","WineRegion","Bordeaux","PotableLiquid"]}
+{"Individual":"SevreEtMaineMuscadet","Response":"<|begin_of_text|>\n\n1. Muscadet\n2. Wine\n3. WhiteWine\n4. WineGrape<|eot_id|>","Prediction":["Muscadet","Wine","WhiteWine","WineGrape"]}
+{"Individual":"SonomaRegion","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that SonomaRegion belongs to:\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"SouthAustraliaRegion","Response":"<|begin_of_text|>\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"StEmilionRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Bordeaux\n3. Pauillac\n4. Wine<|eot_id|>","Prediction":["Region","Bordeaux","Pauillac","Wine"]}
+{"Individual":"StGenevieve","Response":"<|begin_of_text|>\n\n1. Wine\n2. WineGrape\n3. Region<|eot_id|>","Prediction":["Wine","WineGrape","Region"]}
+{"Individual":"StGenevieveTexasWhite","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. WhiteWine\n2. Wine\n3. WineGrape\n4. Grape<|eot_id|>","Prediction":["WhiteWine","Wine","WineGrape","Grape"]}
+{"Individual":"Stonleigh","Response":"<|begin_of_text|>\n\n1. Wine\n2. Winery\n3. RedWine\n4. Bordeaux<|eot_id|>","Prediction":["Wine","Winery","RedWine","Bordeaux"]}
+{"Individual":"StonleighSauvignonBlanc","Response":"<|begin_of_text|>\n\n1. WhiteWine\n2. Wine\n3. WineGrape\n4. Grape<|eot_id|>","Prediction":["WhiteWine","Wine","WineGrape","Grape"]}
+{"Individual":"Sweet","Response":"<|begin_of_text|>\n\n1. WineSugar\n2. DessertWine\n3. SweetRiesling<|eot_id|>","Prediction":["WineSugar","DessertWine","SweetRiesling"]}
+{"Individual":"Taylor","Response":"<|begin_of_text|>\n\n1. Wine\n2. WineDescriptor<|eot_id|>","Prediction":["Wine","WineDescriptor"]}
+{"Individual":"TaylorPort","Response":"<|begin_of_text|>\n\n1. Port\n2. Wine\n3. DessertWine\n4. SweetWine<|eot_id|>","Prediction":["Port","Wine","DessertWine","SweetWine"]}
+{"Individual":"TexasRegion","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input \"TexasRegion\" belongs to:\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"ToursRegion","Response":"<|begin_of_text|>\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"USRegion","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes for the user input \"USRegion\":\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"Ventana","Response":"<|begin_of_text|>\n\n1. Winery\n2. Wine<|eot_id|>","Prediction":["Winery","Wine"]}
+{"Individual":"VentanaCheninBlanc","Response":"<|begin_of_text|>\n\n1. Wine\n2. WhiteWine\n3. CheninBlanc\n4. WineGrape<|eot_id|>","Prediction":["Wine","WhiteWine","CheninBlanc","WineGrape"]}
+{"Individual":"White","Response":"<|begin_of_text|>\n\n1. WhiteWine\n2. Wine\n3. WineColor<|eot_id|>","Prediction":["WhiteWine","Wine","WineColor"]}
+{"Individual":"WhitehallLane","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes that the input \"WhitehallLane\" belongs to:\n\n1. Wine\n2. WhiteWine<|eot_id|>","Prediction":["Wine","WhiteWine"]}
+{"Individual":"WhitehallLaneCabernetFranc","Response":"<|begin_of_text|>\n\n1. Wine\n2. CabernetFranc\n3. WineGrape\n4. White<|eot_id|>","Prediction":["Wine","CabernetFranc","WineGrape","White"]}
+{"Individual":"WhitehallLanePrimavera","Response":"<|begin_of_text|>\n\nHere is the ranked list of classes:\n\n1. Wine\n2. WhiteWine\n3. Chardonnay\n4. WineTaste<|eot_id|>","Prediction":["Wine","WhiteWine","Chardonnay","WineTaste"]}
+{"Individual":"Year1998","Response":"<|begin_of_text|>\n\n1. VintageYear<|eot_id|>","Prediction":["VintageYear"]}
+{"Individual":"ZinfandelGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}

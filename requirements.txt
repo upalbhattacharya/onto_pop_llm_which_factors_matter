@@ -1,0 +1,12 @@
+accelerate>=0.26.0
+bitsandbytes>=0.44.1
+ontospy>=2.1.1
+openai>=1.52.2
+polars>=1.11.0
+pydantic>=2.9.2
+python-dotenv>=1.0.1
+scikit-learn>=1.5.2
+torch>=2.5.0
+tqdm>=4.66.5
+transformers>=4.46.0
+pingouin>=0.5.5

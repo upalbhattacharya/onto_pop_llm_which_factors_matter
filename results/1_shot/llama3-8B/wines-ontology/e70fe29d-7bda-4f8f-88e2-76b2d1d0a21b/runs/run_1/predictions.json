@@ -1,0 +1,160 @@
+{"Individual":"AlsaceRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"AnjouRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Anjou<|eot_id|>","Prediction":["Region","Anjou"]}
+{"Individual":"ArroyoGrandeRegion","Response":"<|begin_of_text|>\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"AustralianRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"Bancroft","Response":"<|begin_of_text|>\n\n1. Winery\n2. Region<|eot_id|>","Prediction":["Winery","Region"]}
+{"Individual":"BancroftChardonnay","Response":"<|begin_of_text|>\n\n['Wine', 'Chardonnay', 'WhiteWine', 'WineDescriptor']<|eot_id|>","Prediction":[]}
+{"Individual":"BeaujolaisRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. FrenchWineRegion<|eot_id|>","Prediction":["Region","FrenchWineRegion"]}
+{"Individual":"Beringer","Response":"<|begin_of_text|>\n\n1. Winery\n2. Wine\n3. Region\n4. ItalianWine<|eot_id|>","Prediction":["Winery","Wine","Region","ItalianWine"]}
+{"Individual":"BordeauxRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Bordeaux\n3. RedWine\n4. Wine<|eot_id|>","Prediction":["Region","Bordeaux","RedWine","Wine"]}
+{"Individual":"BourgogneRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WhiteBurgundy<|eot_id|>","Prediction":["Region","WhiteBurgundy"]}
+{"Individual":"CabernetFrancGrape","Response":"<|begin_of_text|>\n\n['WineGrape', 'Grape', 'RedWine', 'VitisVinifera']<|eot_id|>","Prediction":[]}
+{"Individual":"CabernetSauvignonGrape","Response":"<|begin_of_text|>\n\n['Grape', 'WineGrape', 'Vitis', 'Plant']<|eot_id|>","Prediction":[]}
+{"Individual":"CaliforniaRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"CentralCoastRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"CentralTexasRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"ChardonnayGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape\n3. Wine\n4. ViticulturalProduct<|eot_id|>","Prediction":["WineGrape","Grape","Wine","ViticulturalProduct"]}
+{"Individual":"ChateauChevalBlanc","Response":"<|begin_of_text|>\n\n1. Bordeaux\n2. Wine\n3. RedWine\n4. PotableLiquid<|eot_id|>","Prediction":["Bordeaux","Wine","RedWine","PotableLiquid"]}
+{"Individual":"ChateauChevalBlancStEmilion","Response":"<|begin_of_text|>\n\n['Winery', 'Region', 'RedWine', 'Wine']<|eot_id|>","Prediction":[]}
+{"Individual":"ChateauDYchem","Response":"<|begin_of_text|>\n\n['Winery', 'Region', 'Bordeaux', 'Wine']<|eot_id|>","Prediction":[]}
+{"Individual":"ChateauDYchemSauterne","Response":"<|begin_of_text|>\n\n1. Wine\n2. Sauternes\n3. Bordeaux\n4. RedWine<|eot_id|>","Prediction":["Wine","Sauternes","Bordeaux","RedWine"]}
+{"Individual":"ChateauDeMeursault","Response":"<|begin_of_text|>\n\n1. Chateau\n2. Winery\n3. Bordeaux\n4. Meursault<|eot_id|>","Prediction":["Chateau","Winery","Bordeaux","Meursault"]}
+{"Individual":"ChateauDeMeursaultMeursault","Response":"<|begin_of_text|>\n\n1. Wine\n2. Meursault\n3. RedWine\n4. Bordeaux<|eot_id|>","Prediction":["Wine","Meursault","RedWine","Bordeaux"]}
+{"Individual":"ChateauLafiteRothschild","Response":"<|begin_of_text|>\n\n1. Bordeaux\n2. RedWine\n3. Meritage\n4. Pauillac<|eot_id|>","Prediction":["Bordeaux","RedWine","Meritage","Pauillac"]}
+{"Individual":"ChateauLafiteRothschildPauillac","Response":"<|begin_of_text|>\n\n1. Bordeaux\n2. RedWine\n3. Pauillac\n4. BordeauxRegion<|eot_id|>","Prediction":["Bordeaux","RedWine","Pauillac","BordeauxRegion"]}
+{"Individual":"ChateauMargaux","Response":"<|begin_of_text|>\n\n['Bordeaux', 'Wine', 'RedWine', 'Region']<|eot_id|>","Prediction":[]}
+{"Individual":"ChateauMargauxWinery","Response":"<|begin_of_text|>\n\n['Winery', 'Chateau', 'Bordeaux', 'Wine']<|eot_id|>","Prediction":[]}
+{"Individual":"ChateauMorgon","Response":"<|begin_of_text|>\n\n['Winery', 'Region', 'Wine']<|eot_id|>","Prediction":[]}
+{"Individual":"ChateauMorgonBeaujolais","Response":"<|begin_of_text|>\n\n1. Beaujolais\n2. Wine\n3. RedWine<|eot_id|>","Prediction":["Beaujolais","Wine","RedWine"]}
+{"Individual":"CheninBlancGrape","Response":"<|begin_of_text|>\n\n['WineGrape', 'Grape', 'Wine']<|eot_id|>","Prediction":[]}
+{"Individual":"ChiantiClassico","Response":"<|begin_of_text|>\n\n1. Chianti\n2. RedTableWine\n3. ItalianWine\n4. Wine<|eot_id|>","Prediction":["Chianti","RedTableWine","ItalianWine","Wine"]}
+{"Individual":"ChiantiRegion","Response":"<|begin_of_text|>\n\n['Region', 'ItalianWine', 'Chianti', 'Wine']<|eot_id|>","Prediction":[]}
+{"Individual":"ClosDeLaPoussie","Response":"<|begin_of_text|>\n\n1. Winery\n2. Bordeaux\n3. RedWine\n4. FrenchWine<|eot_id|>","Prediction":["Winery","Bordeaux","RedWine","FrenchWine"]}
+{"Individual":"ClosDeLaPoussieSancerre","Response":"<|begin_of_text|>\n\n['Winery', 'Region', 'WhiteBurgundy', 'Sancerre']<|eot_id|>","Prediction":[]}
+{"Individual":"ClosDeVougeot","Response":"<|begin_of_text|>\n\n1. CotesDOr\n2. RedWine\n3. Bordeaux\n4. Wine<|eot_id|>","Prediction":["CotesDOr","RedWine","Bordeaux","Wine"]}
+{"Individual":"ClosDeVougeotCotesDOr","Response":"<|begin_of_text|>\n\n['Region', 'CotesDOr', 'WineRegion', 'FrenchWineRegion']<|eot_id|>","Prediction":[]}
+{"Individual":"CongressSprings","Response":"<|begin_of_text|>\n\n['Winery']<|eot_id|>","Prediction":[]}
+{"Individual":"CongressSpringsSemillon","Response":"<|begin_of_text|>\n\n1. Wine\n2. Semillon\n3. WhiteWine\n4. PotableLiquid<|eot_id|>","Prediction":["Wine","Semillon","WhiteWine","PotableLiquid"]}
+{"Individual":"Corbans","Response":"<|begin_of_text|>\n\n['Winery']<|eot_id|>","Prediction":[]}
+{"Individual":"CorbansDryWhiteRiesling","Response":"<|begin_of_text|>\n\n1. Wine\n2. WhiteWine\n3. Riesling\n4. DryRiesling<|eot_id|>","Prediction":["Wine","WhiteWine","Riesling","DryRiesling"]}
+{"Individual":"CorbansPrivateBinSauvignonBlanc","Response":"<|begin_of_text|>\n\n1. Sauvignon Blanc\n2. White Wine\n3. Wine\n4. Potable Liquid<|eot_id|>","Prediction":["Blanc","Wine","Wine","Liquid"]}
+{"Individual":"CorbansSauvignonBlanc","Response":"<|begin_of_text|>\n\n1. Wine\n2. WhiteWine\n3. SauvignonBlanc\n4. WineGrape<|eot_id|>","Prediction":["Wine","WhiteWine","SauvignonBlanc","WineGrape"]}
+{"Individual":"CortonMontrachet","Response":"<|begin_of_text|>\n\n['WhiteBurgundy', 'Wine', 'RedWine', 'WineDescriptor']<|eot_id|>","Prediction":[]}
+{"Individual":"CortonMontrachetWhiteBurgundy","Response":"<|begin_of_text|>\n\n['WhiteBurgundy', 'Wine', 'WineRegion', 'Burgundy']<|eot_id|>","Prediction":[]}
+{"Individual":"CotesDOrRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. CotesDOr\n3. Wine\n4. Burgundy<|eot_id|>","Prediction":["Region","CotesDOr","Wine","Burgundy"]}
+{"Individual":"Cotturi","Response":"<|begin_of_text|>\n\n1. Winery\n2. Bordeaux\n3. Wine\n4. Meritage<|eot_id|>","Prediction":["Winery","Bordeaux","Wine","Meritage"]}
+{"Individual":"CotturiZinfandel","Response":"<|begin_of_text|>\n\n['Zinfandel', 'Wine', 'RedWine']<|eot_id|>","Prediction":[]}
+{"Individual":"DAnjou","Response":"<|begin_of_text|>\n\n1. Anjou\n2. Region\n3. Wine\n4. FrenchWine<|eot_id|>","Prediction":["Anjou","Region","Wine","FrenchWine"]}
+{"Individual":"Delicate","Response":"<|begin_of_text|>\n\n1. WineTaste\n2. WineFlavor<|eot_id|>","Prediction":["WineTaste","WineFlavor"]}
+{"Individual":"Dry","Response":"<|begin_of_text|>\n\n1. WineFlavor\n2. WineColor<|eot_id|>","Prediction":["WineFlavor","WineColor"]}
+{"Individual":"EdnaValleyRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"Elyse","Response":"<|begin_of_text|>\n\n1. Winery<|eot_id|>","Prediction":["Winery"]}
+{"Individual":"ElyseZinfandel","Response":"<|begin_of_text|>\n\n1. Zinfandel\n2. Wine\n3. RedWine<|eot_id|>","Prediction":["Zinfandel","Wine","RedWine"]}
+{"Individual":"Forman","Response":"<|begin_of_text|>\n\n1. Winery<|eot_id|>","Prediction":["Winery"]}
+{"Individual":"FormanCabernetSauvignon","Response":"<|begin_of_text|>\n\n1. Wine\n2. RedWine\n3. CabernetSauvignon<|eot_id|>","Prediction":["Wine","RedWine","CabernetSauvignon"]}
+{"Individual":"FormanChardonnay","Response":"<|begin_of_text|>\n\n['Wine', 'Chardonnay', 'WhiteWine', 'WineDescriptor']<|eot_id|>","Prediction":[]}
+{"Individual":"FoxenCheninBlanc","Response":"<|begin_of_text|>\n\n1. Wine\n2. CheninBlanc\n3. WhiteWine<|eot_id|>","Prediction":["Wine","CheninBlanc","WhiteWine"]}
+{"Individual":"FrenchRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Bordeaux\n3. Pauillac\n4. Anjou<|eot_id|>","Prediction":["Region","Bordeaux","Pauillac","Anjou"]}
+{"Individual":"Full","Response":"<|begin_of_text|>\n\n1. Wine\n2. PotableLiquid<|eot_id|>","Prediction":["Wine","PotableLiquid"]}
+{"Individual":"GamayGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"GaryFarrell","Response":"<|begin_of_text|>\n\n1. Winery<|eot_id|>","Prediction":["Winery"]}
+{"Individual":"GaryFarrellMerlot","Response":"<|begin_of_text|>\n\n1. Merlot\n2. Wine<|eot_id|>","Prediction":["Merlot","Wine"]}
+{"Individual":"GermanyRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"Handley","Response":"<|begin_of_text|>\n\n['Winery']<|eot_id|>","Prediction":[]}
+{"Individual":"ItalianRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. ItalianWine<|eot_id|>","Prediction":["Region","ItalianWine"]}
+{"Individual":"KalinCellars","Response":"<|begin_of_text|>\n\n1. Winery\n2. Wine\n3. Region\n4. WineRegion<|eot_id|>","Prediction":["Winery","Wine","Region","WineRegion"]}
+{"Individual":"KalinCellarsSemillon","Response":"<|begin_of_text|>\n\n1. Wine\n2. Semillon\n3. WineGrape\n4. WhiteWine<|eot_id|>","Prediction":["Wine","Semillon","WineGrape","WhiteWine"]}
+{"Individual":"KathrynKennedy","Response":"<|begin_of_text|>\n\n1. Winery<|eot_id|>","Prediction":["Winery"]}
+{"Individual":"KathrynKennedyLateral","Response":"<|begin_of_text|>\n\n1. Meritage\n2. RedWine\n3. Bordeaux\n4. PotableLiquid<|eot_id|>","Prediction":["Meritage","RedWine","Bordeaux","PotableLiquid"]}
+{"Individual":"LaneTanner","Response":"<|begin_of_text|>\n\n['Winery', 'Wine']<|eot_id|>","Prediction":[]}
+{"Individual":"LaneTannerPinotNoir","Response":"<|begin_of_text|>\n\n1. PinotNoir\n2. Wine<|eot_id|>","Prediction":["PinotNoir","Wine"]}
+{"Individual":"Light","Response":"<|begin_of_text|>\n\n['WineColor']<|eot_id|>","Prediction":[]}
+{"Individual":"LoireRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"Longridge","Response":"<|begin_of_text|>\n\n1. Winery\n2. WineRegion\n3. Bordeaux\n4. RedWine<|eot_id|>","Prediction":["Winery","WineRegion","Bordeaux","RedWine"]}
+{"Individual":"LongridgeMerlot","Response":"<|begin_of_text|>\n\n1. Merlot\n2. Wine\n3. RedWine<|eot_id|>","Prediction":["Merlot","Wine","RedWine"]}
+{"Individual":"MalbecGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"MargauxRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Bordeaux\n3. WineRegion\n4. FrenchWineRegion<|eot_id|>","Prediction":["Region","Bordeaux","WineRegion","FrenchWineRegion"]}
+{"Individual":"Marietta","Response":"<|begin_of_text|>\n\n['Winery']<|eot_id|>","Prediction":[]}
+{"Individual":"MariettaCabernetSauvignon","Response":"<|begin_of_text|>\n\n1. Wine\n2. RedWine\n3. CabernetSauvignon\n4. WineDescriptor<|eot_id|>","Prediction":["Wine","RedWine","CabernetSauvignon","WineDescriptor"]}
+{"Individual":"MariettaOldVinesRed","Response":"<|begin_of_text|>\n\n1. RedWine\n2. Zinfandel\n3. Wine\n4. Meritage<|eot_id|>","Prediction":["RedWine","Zinfandel","Wine","Meritage"]}
+{"Individual":"MariettaPetiteSyrah","Response":"<|begin_of_text|>\n\n1. Petite Syrah\n2. Wine\n3. RedWine\n4. Meritage<|eot_id|>","Prediction":["Syrah","Wine","RedWine","Meritage"]}
+{"Individual":"MariettaZinfandel","Response":"<|begin_of_text|>\n\n1. Zinfandel\n2. RedWine\n3. Wine\n4. ItalianWine<|eot_id|>","Prediction":["Zinfandel","RedWine","Wine","ItalianWine"]}
+{"Individual":"McGuinnesso","Response":"<|begin_of_text|>\n\n['Winery']<|eot_id|>","Prediction":[]}
+{"Individual":"Medium","Response":"<|begin_of_text|>\n\n1. Wine\n2. RedWine\n3. PotableLiquid\n4. Beverage<|eot_id|>","Prediction":["Wine","RedWine","PotableLiquid","Beverage"]}
+{"Individual":"MedocRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Bordeaux\n3. WineRegion\n4. FrenchRegion<|eot_id|>","Prediction":["Region","Bordeaux","WineRegion","FrenchRegion"]}
+{"Individual":"MendocinoRegion","Response":"<|begin_of_text|>\n\n['Region']<|eot_id|>","Prediction":[]}
+{"Individual":"MerlotGrape","Response":"<|begin_of_text|>\n\n['WineGrape', 'Grape', 'Vitis', 'Fruit']<|eot_id|>","Prediction":[]}
+{"Individual":"MeursaultRegion","Response":"<|begin_of_text|>\n\n['Region', 'Wine', 'WhiteBurgundy']<|eot_id|>","Prediction":[]}
+{"Individual":"Moderate","Response":"<|begin_of_text|>\n\n1. WineBody\n2. WineTaste<|eot_id|>","Prediction":["WineBody","WineTaste"]}
+{"Individual":"MountEdenVineyard","Response":"<|begin_of_text|>\n\n1. Winery\n2. Region<|eot_id|>","Prediction":["Winery","Region"]}
+{"Individual":"MountEdenVineyardEdnaValleyChardonnay","Response":"<|begin_of_text|>\n\n['Winery', 'Chardonnay', 'Wine', 'WhiteWine']<|eot_id|>","Prediction":[]}
+{"Individual":"MountEdenVineyardEstatePinotNoir","Response":"<|begin_of_text|>\n\n['Winery', 'Wine', 'PinotNoir', 'RedWine']<|eot_id|>","Prediction":[]}
+{"Individual":"Mountadam","Response":"<|begin_of_text|>\n\n['Winery']<|eot_id|>","Prediction":[]}
+{"Individual":"MountadamChardonnay","Response":"<|begin_of_text|>\n\n1. Chardonnay\n2. Wine\n3. WhiteWine\n4. WineVariety<|eot_id|>","Prediction":["Chardonnay","Wine","WhiteWine","WineVariety"]}
+{"Individual":"MountadamPinotNoir","Response":"<|begin_of_text|>\n\n['Wine', 'PinotNoir', 'RedWine', 'WineDescriptor']<|eot_id|>","Prediction":[]}
+{"Individual":"MountadamRiesling","Response":"<|begin_of_text|>\n\n1. Riesling\n2. WhiteWine\n3. Wine\n4. WineVariety<|eot_id|>","Prediction":["Riesling","WhiteWine","Wine","WineVariety"]}
+{"Individual":"MuscadetRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"NapaRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"NewZealandRegion","Response":"<|begin_of_text|>\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"OffDry","Response":"<|begin_of_text|>\n\n['Wine', 'WineBody', 'WineDescriptor', 'WineSugar']<|eot_id|>","Prediction":[]}
+{"Individual":"PageMillWinery","Response":"<|begin_of_text|>\n\n1. Winery\n2. Wine\n3. WineRegion\n4. Business<|eot_id|>","Prediction":["Winery","Wine","WineRegion","Business"]}
+{"Individual":"PageMillWineryCabernetSauvignon","Response":"<|begin_of_text|>\n\n['Winery', 'Wine', 'RedWine', 'CabernetSauvignon']<|eot_id|>","Prediction":[]}
+{"Individual":"PauillacRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Bordeaux<|eot_id|>","Prediction":["Region","Bordeaux"]}
+{"Individual":"PeterMccoy","Response":"<|begin_of_text|>\n\n1. Winery<|eot_id|>","Prediction":["Winery"]}
+{"Individual":"PeterMccoyChardonnay","Response":"<|begin_of_text|>\n\n1. Wine\n2. Chardonnay\n3. WineDescriptor\n4. WhiteWine<|eot_id|>","Prediction":["Wine","Chardonnay","WineDescriptor","WhiteWine"]}
+{"Individual":"PetiteSyrahGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape\n3. PetiteSyrah\n4. Wine<|eot_id|>","Prediction":["WineGrape","Grape","PetiteSyrah","Wine"]}
+{"Individual":"PetiteVerdotGrape","Response":"<|begin_of_text|>\n\n['WineGrape', 'Grape', 'PetiteVerdot', 'RedWine']<|eot_id|>","Prediction":[]}
+{"Individual":"PinotBlancGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"PinotNoirGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape\n3. Pinot Noir<|eot_id|>","Prediction":["WineGrape","Grape","Noir"]}
+{"Individual":"PortugalRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"PulignyMontrachet","Response":"<|begin_of_text|>\n\n1. WhiteBurgundy\n2. Wine\n3. RedWine\n4. PotableLiquid<|eot_id|>","Prediction":["WhiteBurgundy","Wine","RedWine","PotableLiquid"]}
+{"Individual":"PulignyMontrachetWhiteBurgundy","Response":"<|begin_of_text|>\n\n1. WhiteWine\n2. Wine\n3. Burgundy\n4. WineRegion<|eot_id|>","Prediction":["WhiteWine","Wine","Burgundy","WineRegion"]}
+{"Individual":"Red","Response":"<|begin_of_text|>\n\n1. WineColor\n2. RedWine<|eot_id|>","Prediction":["WineColor","RedWine"]}
+{"Individual":"RieslingGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Riesling<|eot_id|>","Prediction":["WineGrape","Riesling"]}
+{"Individual":"Rose","Response":"<|begin_of_text|>\n\n1. WineColor\n2. Wine\n3. RedWine\n4. WineDescriptor<|eot_id|>","Prediction":["WineColor","Wine","RedWine","WineDescriptor"]}
+{"Individual":"RoseDAnjou","Response":"<|begin_of_text|>\n\n1. Wine\n2. RedWine\n3. FrenchWine\n4. SweetWine<|eot_id|>","Prediction":["Wine","RedWine","FrenchWine","SweetWine"]}
+{"Individual":"SancerreRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. FrenchRegion<|eot_id|>","Prediction":["Region","FrenchRegion"]}
+{"Individual":"SangioveseGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape<|eot_id|>","Prediction":["WineGrape","Grape"]}
+{"Individual":"SantaBarbaraRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"SantaCruzMountainVineyard","Response":"<|begin_of_text|>\n\n1. Winery\n2. Wine\n3. Region<|eot_id|>","Prediction":["Winery","Wine","Region"]}
+{"Individual":"SantaCruzMountainVineyardCabernetSauvignon","Response":"<|begin_of_text|>\n\n1. Wine\n2. RedWine\n3. CabernetSauvignon\n4. WineGrape<|eot_id|>","Prediction":["Wine","RedWine","CabernetSauvignon","WineGrape"]}
+{"Individual":"SantaCruzMountainsRegion","Response":"<|begin_of_text|>\n\n1. Region<|eot_id|>","Prediction":["Region"]}
+{"Individual":"SaucelitoCanyon","Response":"<|begin_of_text|>\n\n['Winery', 'Wine', 'RedWine', 'Meritage']<|eot_id|>","Prediction":[]}
+{"Individual":"SaucelitoCanyonZinfandel","Response":"<|begin_of_text|>\n\n1. Zinfandel\n2. Wine\n3. RedWine<|eot_id|>","Prediction":["Zinfandel","Wine","RedWine"]}
+{"Individual":"SaucelitoCanyonZinfandel1998","Response":"<|begin_of_text|>\n\n[1. Zinfandel, 2. Wine, 3. RedWine, 4. VintageYear]<|eot_id|>","Prediction":[]}
+{"Individual":"SauterneRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Bordeaux\n3. Sauternes\n4. Wine<|eot_id|>","Prediction":["Region","Bordeaux","Sauternes","Wine"]}
+{"Individual":"SauvignonBlancGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape\n3. Wine\n4. WineVariety<|eot_id|>","Prediction":["WineGrape","Grape","Wine","WineVariety"]}
+{"Individual":"SchlossRothermel","Response":"<|begin_of_text|>\n\n1. Wine\n2. Winery<|eot_id|>","Prediction":["Wine","Winery"]}
+{"Individual":"SchlossRothermelTrochenbierenausleseRiesling","Response":"<|begin_of_text|>\n\n1. Riesling\n2. Wine\n3. SweetRiesling\n4. IceWine<|eot_id|>","Prediction":["Riesling","Wine","SweetRiesling","IceWine"]}
+{"Individual":"SchlossVolrad","Response":"<|begin_of_text|>\n\n1. Wine\n2. Winery<|eot_id|>","Prediction":["Wine","Winery"]}
+{"Individual":"SchlossVolradTrochenbierenausleseRiesling","Response":"<|begin_of_text|>\n\n1. Riesling\n2. Wine\n3. LateHarvest\n4. SweetRiesling<|eot_id|>","Prediction":["Riesling","Wine","LateHarvest","SweetRiesling"]}
+{"Individual":"SeanThackrey","Response":"<|begin_of_text|>\n\n['Winery']<|eot_id|>","Prediction":[]}
+{"Individual":"SeanThackreySiriusPetiteSyrah","Response":"<|begin_of_text|>\n\n['Wine', 'PetiteSyrah', 'WineGrape', 'RedWine']<|eot_id|>","Prediction":[]}
+{"Individual":"Selaks","Response":"<|begin_of_text|>\n\n1. Wine\n2. Grape\n3. WineGrape\n4. RedWine<|eot_id|>","Prediction":["Wine","Grape","WineGrape","RedWine"]}
+{"Individual":"SelaksIceWine","Response":"<|begin_of_text|>\n\n1. IceWine\n2. Wine\n3. LateHarvest\n4. PotableLiquid<|eot_id|>","Prediction":["IceWine","Wine","LateHarvest","PotableLiquid"]}
+{"Individual":"SelaksSauvignonBlanc","Response":"<|begin_of_text|>\n\n1. Wine\n2. WhiteWine\n3. SauvignonBlanc\n4. Riesling<|eot_id|>","Prediction":["Wine","WhiteWine","SauvignonBlanc","Riesling"]}
+{"Individual":"SemillonGrape","Response":"<|begin_of_text|>\n\n1. Grape\n2. WineGrape\n3. Semillon\n4. Wine<|eot_id|>","Prediction":["Grape","WineGrape","Semillon","Wine"]}
+{"Individual":"SevreEtMaine","Response":"<|begin_of_text|>\n\n1. Wine\n2. Bordeaux\n3. RedWine\n4. PotableLiquid<|eot_id|>","Prediction":["Wine","Bordeaux","RedWine","PotableLiquid"]}
+{"Individual":"SevreEtMaineMuscadet","Response":"<|begin_of_text|>\n\n1. Muscadet\n2. Wine\n3. WhiteWine<|eot_id|>","Prediction":["Muscadet","Wine","WhiteWine"]}
+{"Individual":"SonomaRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"SouthAustraliaRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"StEmilionRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. Bordeaux\n3. StEmilion\n4. Pauillac<|eot_id|>","Prediction":["Region","Bordeaux","StEmilion","Pauillac"]}
+{"Individual":"StGenevieve","Response":"<|begin_of_text|>\n\n1. Winery\n2. Bordeaux\n3. Region\n4. RedWine<|eot_id|>","Prediction":["Winery","Bordeaux","Region","RedWine"]}
+{"Individual":"StGenevieveTexasWhite","Response":"<|begin_of_text|>\n\n1. Wine\n2. WhiteWine\n3. TexasWine\n4. WineRegion<|eot_id|>","Prediction":["Wine","WhiteWine","TexasWine","WineRegion"]}
+{"Individual":"Stonleigh","Response":"<|begin_of_text|>\n\n1. Winery<|eot_id|>","Prediction":["Winery"]}
+{"Individual":"StonleighSauvignonBlanc","Response":"<|begin_of_text|>\n\n1. Wine\n2. WhiteWine\n3. SauvignonBlanc\n4. Riesling<|eot_id|>","Prediction":["Wine","WhiteWine","SauvignonBlanc","Riesling"]}
+{"Individual":"Strong","Response":"<|begin_of_text|>\n\n['WineBody']<|eot_id|>","Prediction":[]}
+{"Individual":"Sweet","Response":"<|begin_of_text|>\n\n1. WineFlavor\n2. WineSugar\n3. WineBody\n4. WineTaste<|eot_id|>","Prediction":["WineFlavor","WineSugar","WineBody","WineTaste"]}
+{"Individual":"Taylor","Response":"<|begin_of_text|>\n\n['Winery']<|eot_id|>","Prediction":[]}
+{"Individual":"TaylorPort","Response":"<|begin_of_text|>\n\n1. Port\n2. Wine<|eot_id|>","Prediction":["Port","Wine"]}
+{"Individual":"TexasRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. WineRegion<|eot_id|>","Prediction":["Region","WineRegion"]}
+{"Individual":"ToursRegion","Response":"<|begin_of_text|>\n\n['Region']<|eot_id|>","Prediction":[]}
+{"Individual":"USRegion","Response":"<|begin_of_text|>\n\n1. Region\n2. None<|eot_id|>","Prediction":["Region","None"]}
+{"Individual":"Ventana","Response":"<|begin_of_text|>\n\n1. Winery<|eot_id|>","Prediction":["Winery"]}
+{"Individual":"VentanaCheninBlanc","Response":"<|begin_of_text|>\n\n1. Wine\n2. WhiteWine\n3. CheninBlanc\n4. WineGrape<|eot_id|>","Prediction":["Wine","WhiteWine","CheninBlanc","WineGrape"]}
+{"Individual":"White","Response":"<|begin_of_text|>\n\n1. WineColor\n2. Wine\n3. WhiteWine\n4. WineDescriptor<|eot_id|>","Prediction":["WineColor","Wine","WhiteWine","WineDescriptor"]}
+{"Individual":"WhitehallLane","Response":"<|begin_of_text|>\n\n1. Winery\n2. Region<|eot_id|>","Prediction":["Winery","Region"]}
+{"Individual":"WhitehallLaneCabernetFranc","Response":"<|begin_of_text|>\n\n['Wine', 'RedWine', 'CabernetFranc', 'Winery']<|eot_id|>","Prediction":[]}
+{"Individual":"WhitehallLanePrimavera","Response":"<|begin_of_text|>\n\n['Winery']<|eot_id|>","Prediction":[]}
+{"Individual":"Year1998","Response":"<|begin_of_text|>\n\n1. VintageYear\n2. Wine\n3. WineDescriptor\n4. PotableLiquid<|eot_id|>","Prediction":["VintageYear","Wine","WineDescriptor","PotableLiquid"]}
+{"Individual":"ZinfandelGrape","Response":"<|begin_of_text|>\n\n1. WineGrape\n2. Grape\n3. Zinfandel\n4. Wine<|eot_id|>","Prediction":["WineGrape","Grape","Zinfandel","Wine"]}

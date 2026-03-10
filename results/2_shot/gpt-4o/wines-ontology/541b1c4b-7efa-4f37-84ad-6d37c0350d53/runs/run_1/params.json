@@ -1,0 +1,16 @@
+{
+    "input": "/home/upal/Data/ontologies/wines-ontology/data/onto_pop/ranked_retrieval/few_shot/2024-11-06/onto_pop_ranked_retrieval_dataset.json",
+    "examples_file": "/home/upal/Data/ontologies/wines-ontology/data/onto_pop/ranked_retrieval/few_shot/2024-11-06/onto_pop_ranked_retrieval_examples.json",
+    "output_dir": "/home/upal/Results/onto_pop_llm_which_factors_matter/onto_pop/ranked_retrieval/few_shot/wines-ontology/gpt-4o",
+    "ontology_probe_type": "onto_pop",
+    "prompt_strategy_type": "few_shot",
+    "task_type": "ranked_retrieval",
+    "llm_name": "gpt-4o",
+    "max_tokens": 1000,
+    "system_message": "You are an ontology and wine expert that responds with a ranked list of classes that a user input belongs to. Generate a list of the top {depth} most likely classes. Do not generate a list of less than {depth} classes.\nCreate the ranked list considering only the provided classes\n---\nClasses: {classes}\nUse the following examples to generate responses for user inputs:\n {examples}",
+    "user_prompt_template": "{}",
+    "description": "Few-Shot, Domain and Ontology Prompt, No pre-qualification Class Assertion Ranked Retrieval on Wines Ontology",
+    "kwargs": {
+        "depth": 4
+    }
+}
