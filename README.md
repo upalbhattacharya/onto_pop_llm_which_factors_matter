@@ -13,9 +13,9 @@ An outline of the repository is given below:
   hierarchies can be found [here](appendix.pdf).
 - The data including the ontology files along with the zero-shot
   and few-shot datasets can be found in the [data](data/) directory.
-- All relevant source code for pre-processing data, running experiments
-  on various LLMs and calculating metrics can be found in the 
-  [src/eswc\_2026\_submission\_13](src/onto_pop_llm_which_factors_matter/)
+- All relevant source code for pre-processing data, running experiments on
+  various LLMs and calculating metrics can be found in the
+  [src/onto_pop_llm_which_factors_matter](src/onto_pop_llm_which_factors_matter/)
   directory and the [notebooks](notebooks/) directory.
   - An overview of the prompts used in experimentation can be found in the
     [prompt_templates](prompt_templates/) directory.
