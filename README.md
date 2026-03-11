@@ -8,9 +8,9 @@ An outline of the repository is given below:
 - The paper PDF can be found [here](paper.pdf).
 - Additional Tables and Figures for results of all experimentation 
   can be found [here](tables_and_figures.pdf).
-- An Appendix containing the formulation of our Evaluation Metrics
-  and an illustration of the preference for string similarity by LLMs when
-  predicting hierarchies can be found [here](appendix.pdf).
+- An Appendix containing the formulation of our Evaluation Metrics and an
+  illustration of the preference for string similarity by LLMs when predicting
+  hierarchies can be found [here](appendix.pdf).
 - The data including the ontology files along with the zero-shot
   and few-shot datasets can be found in the [data](data/) directory.
 - All relevant source code for pre-processing data, running experiments
