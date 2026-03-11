@@ -3,7 +3,7 @@
 The generic template for 0 shot and n shot prompts can be found in
 [0_shot.md](0_shot.md) and [n_shot.md](n_shot.md) respectively. Fields in
 braces `{}` represent values to be filled. Several values that can be used to
-populate a field are separate by forward slashes `/` (e.g. 4 types of domain
+populate a field are separated by forward slashes `/` (e.g. 4 types of domain
 contextualization). The variables in the prompts are described below.
 
 - `ontology-description` in the templates represent the description provided
